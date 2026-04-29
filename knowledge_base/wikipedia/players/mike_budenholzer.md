@@ -1,0 +1,52 @@
+# Mike Budenholzer
+
+Michael Vincent Budenholzer (born August 6, 1969) is an American professional basketball coach who most recently served as the head coach of the Phoenix Suns of the National Basketball Association (NBA).
+Budenholzer previously head coached the Milwaukee Bucks for five seasons, from 2018 to 2023, winning an NBA title in the 2020–21 NBA season. He also spent five seasons as head coach of the Atlanta Hawks and 19 seasons with the San Antonio Spurs, serving as an alternate video coordinator for the first two seasons and then as an assistant coach behind head coach Gregg Popovich.
+Budenholzer is commonly referred to by other coaches, players, and media as "Bud" or "Coach Bud".
+
+
+## Playing career
+A native of Holbrook, Arizona, Budenholzer attended Pomona College, where he was a four-year letterman in basketball and golf and was named the Outstanding Senior Athlete in 1993. He graduated with a bachelor's degree in philosophy, politics, and economics. On September 19, 2015, Budenholzer was inducted into the Pomona–Pitzer Hall of Fame.
+In 1991, Budenholzer played for the Pentland in the Scottish National Basketball League for four months while attending University of Edinburgh. He later spent the 1993–94 season in Denmark, playing professionally for Vejle Basketball Klub, where he averaged a team-high 27.5 points per game while also serving as head coach for two teams of the club's youth system.
+
+
+## Coaching career
+
+
+## San Antonio Spurs
+
+At the start of the 1994–95 season, Budenholzer was hired by the San Antonio Spurs of the National Basketball Association (NBA) as a video coordinator. He held that position for two years before being named an assistant coach under head coach Gregg Popovich at the beginning of the 1996–97 season. Budenholzer was part of a staff that won four NBA championships while with the Spurs.
+
+
+## Atlanta Hawks
+Budenholzer left San Antonio at the end of the 2013 NBA playoffs to begin his new career as the head coach of the Atlanta Hawks. In his first season as head coach, the Hawks qualified for the Eastern Conference playoffs as the 8th seed in the 2014 NBA Playoffs, then lost to the first-seeded Indiana Pacers in the first round.
+Budenholzer was named the December 2014 Eastern Conference Coach of the Month after leading the Hawks to a 14–2 record in the month. He was named the head coach of the Eastern Conference team at the 2015 NBA All-Star Game by virtue of Atlanta being in first place in the conference by the break. Budenholzer was named the January 2015 Eastern Conference Coach of the Month award after leading the Hawks to the first 17–0 record in a month in NBA history. He went on to lead the Hawks to a franchise record 60 wins, as well as their deepest playoff run in 48 years. On April 21, he was named the recipient of the Red Auerbach Trophy as the 2014–15 NBA Coach of the Year.
+On June 30, 2015, Budenholzer was promoted to president of basketball operations in addition to his duties as head coach. While Wes Wilcox was promoted to general manager, Budenholzer had the final say in all basketball matters.
+On August 1, 2015, Budenholzer served as Team Africa's assistant coach at the 2015 NBA Africa exhibition game.
+On April 25, 2018, Budenholzer and the Hawks agreed to part ways, having been removed as president of basketball operations for the Hawks on May 5, 2017.
+
+
+## Milwaukee Bucks
+On May 17, 2018, the Milwaukee Bucks announced Budenholzer as their head coach. The Bucks found success in his first season, posting a 60–22 record. In January, Budenholzer was selected as the coach of the East team in the 2019 NBA All-Star Game. At the end of the season, he won the NBA Coach of the Year for the second time in his career and also won the National Basketball Coaches Association's Coach of the Year Award.
+On July 20, 2021, Budenholzer led the Milwaukee Bucks to an NBA championship, defeating the Phoenix Suns in six games, as the Bucks became the fifth team in NBA history to win the title after losing the first two games.
+On August 24, 2021, the Bucks signed Budenholzer to a multi-year contract extension.
+In the 2021–22 season, Budenholzer led the team to the third seed in the Eastern Conference for the second straight year. The Bucks defeated the Chicago Bulls in the first round of the playoffs, but fell to the Boston Celtics in seven games in the conference semifinals.
+In the 2022–23 season, the Bucks finished the regular season with the best record in the league. However, Budenholzer was fired by the Bucks on May 4, 2023, after the team lost in five games in the first round of the playoffs to the Miami Heat, who would eventually become the first eight-seed to reach the NBA Finals since the 1998–99 New York Knicks. As a result of the series loss being partially attributed to Giannis Antetokounmpo's injury, and Budenholzer losing his brother in a car crash during the series, the move was controversial among fans. Some felt it was the right time to do so due to the series loss and other playoff under-performances, while others questioned the validity of doing so due to the injury to Antetokounmpo and personal struggles Budenholzer faced during the series.
+
+
+## Phoenix Suns
+On May 11, 2024, Budenholzer was hired as the head coach for the Phoenix Suns. He signed a five-year deal worth roughly $50 million. With the highest payroll in the league, the Suns opened the 2024–25 season with postseason expectations, as the team started off with an 8–1 record. However, they ended up finishing below .500 for the first time since the 2019–20 season and missed the playoffs entirely, ending the campaign with a 36–46 record and the 11th seed in the Western Conference. On April 14, 2025, a day after the regular season ended, Budenholzer was fired.
+
+
+## Head coaching record
+
+
+## Personal life
+Budenholzer is the youngest of seven children born to Vince and Libby Budenholzer. He is of German descent. His father was also a basketball coach and spent 25 years coaching high school and college teams in Arizona before retiring in 1997. Budenholzer has four children: William Vincent, Savoia Elizabeth, Hanna Louise, and John Bent.
+Prior to  Game 4 versus the Miami Heat during the First Round of the 2023 NBA playoffs on April 24, 2023, one of Budenholzer's brothers died in a car accident.
+
+
+
+
+
+## Mike Budenholzer info page at NBA.com

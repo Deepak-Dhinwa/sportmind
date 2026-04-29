@@ -1,0 +1,118 @@
+# Ty Lue
+
+Tyronn Jamar Lue ( tə-RON LOO; born May 3, 1977) is an American professional basketball coach and former player who is the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). He has won NBA titles as a player and a head coach.
+A former point guard, Lue played college basketball for the Nebraska Cornhuskers before being selected by the Denver Nuggets in the first round of the 1998 NBA draft with the 23rd overall pick. He was traded to the Los Angeles Lakers shortly thereafter. As a member of the Lakers, Lue won two NBA championships in his first three seasons.
+After his playing career ended in 2009, Lue became director of basketball development for the Boston Celtics. In 2014, he was hired by the Cleveland Cavaliers as associate head coach. Lue was promoted to head coach during the 2015–16 season, replacing the fired David Blatt. That year, he led the team to their first and only NBA title, defeating the defending champion Golden State Warriors and becoming a rare NBA rookie coach to lead his team to a title. Lue coached the Cavaliers to the Finals in the next two seasons, but lost both times to the Warriors, and was fired in October 2018. Lue went on to be the head coach of the Clippers and led them to their first Conference finals appearance.
+
+
+## High school and college career
+Lue graduated from Raytown Senior High School in Raytown, Missouri. He later attended the University of Nebraska–Lincoln, where he played basketball and studied sociology. Lue was a key member of the 1995–96 team that won the 1996 National Invitation Tournament, defeating Saint Joseph's University in the finals. He finished his Cornhuskers career ranked third all-time in assists (432), fourth in three-pointers made (145) and attempted (407), fifth in steals (154) and seventh in scoring (1,577). Lue led Nebraska in assists in each of his three seasons and finished his career tied with Dave Hoppen for most games with 30 or more points (7). He declared for the NBA draft after his junior season.
+
+
+## Professional career
+
+
+## Los Angeles Lakers (1998–2001)
+Lue opted for early entry into the 1998 NBA draft. He was selected 23rd overall by the Denver Nuggets but was traded on draft night to the Los Angeles Lakers with Tony Battie for Nick Van Exel. His first three years with the Lakers were disappointing. His playing time was limited and he suffered from injuries in 2000.
+Lue excelled in the 2001 playoffs. Due to his quickness, he was assigned to guard Allen Iverson during Game 1 of the Finals. In a memorable moment, Iverson executed a crossover and made a shot in front of Lue, then stepped over him. Although the 76ers won Game 1, the Lakers won the next four and the NBA championship; Lue appeared in each NBA Finals game.
+
+
+## Washington Wizards (2001–2003)
+In the off-season of 2001, Lue signed with the Washington Wizards, where he got considerably more playing time and became a better point guard.
+
+
+## Orlando Magic (2003–2004)
+Lue played with the Orlando Magic in 2003–04 and had a lot of minutes alongside Tracy McGrady, but the team had the worst record in the NBA that season: 21–61.
+
+
+## Houston Rockets (2004)
+After the season, Lue, McGrady, Juwan Howard, and Reece Gaines were traded to the Houston Rockets for Steve Francis, Cuttino Mobley, and Kelvin Cato. In Houston, Lue's playing time decreased due to the overabundance of point guards.
+
+
+## Atlanta Hawks (2004–2008)
+Lue was traded mid-season to the Atlanta Hawks for Jon Barry. Lue starred in Atlanta, although again his team had the worst record in the NBA and their worst record in franchise history: 13–69.
+On August 30, 2005, Lue re-signed with the Hawks.
+
+
+## Dallas Mavericks (2008)
+On February 16, 2008, Lue was acquired by the Sacramento Kings in a trade that sent Mike Bibby to the Hawks. He was waived by the Kings on February 28 without playing a game for them. After clearing waivers, Lue signed a contract with the Dallas Mavericks on March 4.
+
+
+## Milwaukee Bucks (2008–2009)
+On July 17, 2008, Lue was signed by the Milwaukee Bucks.
+
+
+## Return to the Magic (2009)
+On February 5, 2009, Lue was traded to the Orlando Magic in exchange for Keith Bogans and cash considerations. In Lue's final year as an NBA player, the Dwight Howard-led Magic advanced to the 2009 Finals but lost to Lue's former team, the Los Angeles Lakers.
+
+
+## Coaching career
+
+
+## Boston Celtics (2011–2013)
+On October 23, 2009, the Boston Celtics named Lue director of basketball development. He became an assistant on Celtics' head coach Doc Rivers' staff in 2011–12.
+
+
+Los Angeles Clippers (2013–2014)
+In July 2013, Lue joined the Los Angeles Clippers' coaching staff.
+
+
+Cleveland Cavaliers (2014–2018)
+
+On June 23, 2014, Lue joined the Cleveland Cavaliers as associate head coach, becoming the highest-paid assistant coach in the NBA. Lue had been a top candidate for the Cavaliers' head coaching job, which eventually went to David Blatt.
+On January 22, 2016, Lue was named head coach of the Cavaliers immediately following the mid-season firing of Blatt. He was signed to a three-year contract. Lue coached the Cavaliers to an NBA championship that spring. In May, the Cavaliers defeated the Toronto Raptors in Game 2 of the Eastern Conference finals, continuing their unbeaten streak in the 2016 playoffs and making Lue the first coach in NBA history to win his first 10 postseason games. Eight days later, Lue led the Cavaliers to the NBA Finals, becoming one of the few coaches to reach the Finals after becoming head coach in midseason. On June 19, 2016, the Cavaliers won their first NBA championship. Lue became the second rookie head coach in two years to win the title, the third head coach (along with Paul Westhead in 1979–80 and Pat Riley in 1981–82) to win a championship after becoming head coach in midseason, and the 14th person to have won an NBA championship as a head coach and as a player. Lue's coaching style in Cleveland relied on flexibility and LeBron James's consistency; he shuffled players around James to adjust to matchups. In 2016, his Finals team followed the Warriors' own blueprint to beat them. According to one writer, Lue's teams could look undisciplined and unprepared in the regular season, but in the playoffs, he was praised for his ability to "think several moves ahead and create matchup advantages". At the 2016 ESPY Awards, Lue was named Best Coach/Manager, and the Cavaliers were named Best Team.
+In the 2016–17 NBA season, Lue coached the Cavaliers to a 51–31 record. In the playoffs, the Cavaliers went 12–1 heading into the 2017 NBA Finals before losing to the Golden State Warriors in five games. After the season concluded, Kyrie Irving, who had been with the Cavaliers since the 2010–2011 season, was traded to the Boston Celtics per his request. This trade ended the superteam era of the Cavaliers.
+On March 19, 2018, Lue announced that he would take a leave of absence from coaching the Cavaliers, citing recurrent chest pain. Lue returned to coach before the regular season ended and helped the Cavaliers reach the 2018 NBA Finals, where they lost to the Warriors in four games.
+LeBron James left as a free agent before the 2018-19 season and signed with the Los Angeles Lakers. Most of the remaining Cleveland Cavaliers roster, which had made the previous four NBA Finals, was composed of aging players. On October 28, 2018, the Cavaliers fired Lue after an 0–6 start to the season.
+
+
+Return to the Clippers (2019–present)
+After Cleveland fired him, Lue worked in an informal role with Doc Rivers, who was now the head coach of the Los Angeles Clippers. Prior to the 2019–20 season, Lue was named the lead assistant coach on Rivers' staff.
+On October 20, 2020, Lue was promoted to Clippers head coach after Rivers' departure. In his first season, Lue led the Clippers to the Western Conference finals, their first conference finals appearance in franchise history, but lost to the Phoenix Suns in six games.
+On May 29, 2024, Lue agreed to a 5-year contract of almost $70 million to return as the head coach of the Clippers.
+
+
+## Career statistics
+
+
+## Regular season
+
+
+## Playoffs
+
+
+## Head coaching record
+
+
+## Awards and honors
+NBA:
+
+## Three-time NBA champion
+Two as a player (2000, 2001)
+One as a head coach (2016)
+All-Star Game head coach (2016)
+USA Basketball:
+
+Olympic Gold Medal winner (as an assistant coach of the 2024 United States men's Olympic basketball team)
+NCAA:
+
+## First-team All-Big 12 (1998)
+No. 10 retired by the Nebraska Cornhuskers
+Media
+
+2016 ESPY Award Best Coach/Manager
+2016 ESPY Award for Best Team (as coach of the Cavaliers)
+State/Local:
+
+## Street in Lue's hometown of Mexico, Missouri named "Tyronn Lue Boulevard"
+
+
+## Personal life
+Lue is a first cousin once removed of Boston Celtics small forward Jayson Tatum. As a native of St. Louis, Tatum grew up within two hours of Lue's hometown of Mexico, Missouri, and often attended his family barbecues.
+
+
+
+
+
+## Career statistics from NBA.com  · Basketball Reference
+ Media related to Tyronn Lue at Wikimedia Commons

@@ -1,0 +1,88 @@
+# Cade Cunningham
+
+Cade Parker Cunningham (born September 25, 2001) is an American professional basketball player for the Detroit Pistons of the National Basketball Association (NBA). He attended Bowie High School in his hometown of Arlington, Texas, before transferring to Montverde Academy in Florida, where he was rated a consensus five-star recruit and among the top players in the 2020 class by major recruiting services. As a senior, he led one of the best high school teams in history and received national player of the year recognition.
+Cunningham committed to playing college basketball for the Oklahoma State Cowboys, and was named a consensus first-team All-American and Big 12 Player of the Year after his freshman season with the team. He won a gold medal with the United States at the 2019 FIBA Under-19 World Cup. He was the NBA first overall pick by the Detroit Pistons in the 2021 NBA draft. He was named as an NBA All-Star and to an All-NBA Team for the first time in 2025.
+
+
+## Early life and career
+Cunningham was born in Arlington, Texas, to Carrie and Keith Cunningham. He grew up playing football as a quarterback, which he believes helped him become a better passer and leader on the basketball court. He focused on basketball after watching his brother play the sport in college. He frequently played basketball with his father and brother at a recreation center. He played the point guard position for Barnett Junior High School in Arlington. Since his childhood, he competed for the Texas Titans on the Amateur Athletic Union circuit alongside future TCU player Mike Miles Jr.
+
+
+## High school career
+Cade Cunningham attended Bowie High School in Arlington. He became a starter on the varsity team early in his freshman season. The team also featured Kyler Edwards. Cunningham averaged 15.2 points, 6.4 rebounds, and 3.0 assists per game, helping Bowie reach the District 6A Region I final. He was subsequently named District 4-6A Newcomer of the Year. In December 2017, early in his sophomore season, he suffered an injury while attempting to dunk at a tournament in Houston. Cunningham finished the season averaging 18.8 points, 8.2 rebounds, and 5.3 assists per game. He was named District 4-6A co-most valuable player (MVP) and earned Texas Association of Basketball Coaches All-Region honors.
+
+Entering his junior year, Cunningham transferred to Montverde Academy, a school in Montverde, Florida with a successful basketball program. He chose Montverde, whose team was ranked number one in the country by USA Today, for its academics and coaching. On February 2, 2019, at the National Hoopfest tournament, Cunningham recorded 26 points, nine assists, and seven rebounds in a 76–51 win against Oak Hill Academy, one of the top high school teams nationally. By the end of his junior season, he was averaging 11.4 points, 5.7 rebounds, and 5.5 assists per game. Following the high school season, Cunningham was named Nike Elite Youth Basketball League (EYBL) MVP after averaging 25.1 points, 6.6 rebounds, and 5.2 assists per game for the Texas Titans in the EYBL regular season. He was teammates with Greg Brown and Mike Miles Jr. with the Titans.
+For his senior season at Montverde, he was joined by many more top recruits, including five-star forwards Scottie Barnes and Day'Ron Sharpe. Many analysts regarded his team as one of the best in high school basketball history. Cunningham averaged 13.9 points, 6.4 assists and 4.2 rebounds per game, leading Montverde to a 25–0 record with an average margin of victory of 39 points. He played only 22 minutes per game due to the depth of his team. At the end of the season, Cunningham was honored as Mr. Basketball USA, Naismith Prep Player of the Year, and MaxPreps National Player of the Year. He was selected to play in the McDonald's All-American Game, Jordan Brand Classic, and Nike Hoop Summit, but all three games were canceled due to the COVID-19 pandemic.
+
+
+## Recruiting
+Cunningham emerged as a top-25 recruit in the 2020 class at the end of his sophomore season at Bowie. He was a consensus five-star recruit and one of the best players in his class. Cunningham received offers from top NCAA Division I programs including Duke, Kentucky, and North Carolina, but many analysts viewed Oklahoma State as his likely destination after the program hired his brother Cannen as an assistant coach. On November 5, 2019, Cade Cunningham announced his commitment to Oklahoma State. He became the highest-ranked committed recruit in program history and the first five-star recruit to join Oklahoma State since Marcus Smart in 2012. In June 2020, the NCAA imposed a postseason ban on Oklahoma State. Cunningham announced on June 22 that he would still play for the team.
+
+
+## College career
+
+In his college debut for Oklahoma State on November 25, 2020, Cunningham recorded 21 points and 10 rebounds in a 75–68 win over UT Arlington. On December 8, he scored 29 points, including 13 in the final 91 seconds, in an 83–78 victory over Oral Roberts. On December 12, Cunningham made a game-winning three-pointer with 11 seconds remaining to help defeat Wichita State 67–64. On February 27, 2021, he posted a career-high 40 points and 11 rebounds in a 94–90 overtime win against Oklahoma. The performance helped him earn Oscar Robertson National Player of the Week honors. Cunningham posted 25 points, eight rebounds, and five assists in an 83–74 upset win against top-seeded Baylor in the Big 12 tournament semifinals on March 12, 2021. As a freshman, he averaged 20.1 points, 6.2 rebounds, 3.5 assists, and 1.6 steals per game.
+After his freshman season, Cunningham was recognized as a consensus first-team All-American. He was the first Oklahoma State player to earn the distinction since Bob Kurland (1944–46). He became the fourth player to win Big 12 Player of the Year and Big 12 Freshman of the Year in the same season, joining Marcus Smart, Kevin Durant, and Michael Beasley. He was unanimously selected to the first-team All-Big 12, the All-Freshman Team, and the All-Newcomer Team. Cunningham received major NCAA Division I freshman of the year honors, among them the Wayman Tisdale Award, Sporting News Freshman of the Year, and National Association of Basketball Coaches Freshman of the Year.
+On April 1, 2021, Cunningham announced that he would enter the 2021 NBA draft and forgo his remaining college eligibility. Analysts regarded him as the consensus number one pick in the draft.
+
+
+## Professional career
+
+
+## Detroit Pistons (2021–present)
+
+
+## All-Rookie honors (2021–2022)
+Cunningham was drafted with the first overall pick of the 2021 NBA draft by the Detroit Pistons. He missed part of training camp, all of preseason, and five of Detroit's first six regular-season games due to an ankle injury. In his NBA debut on October 30, Cunningham had two points, two assists, and seven rebounds in 18 minutes in a 110–103 win over the Orlando Magic. His two points were the fewest scored in a No. 1 pick's NBA debut since Anthony Bennett in 2013, who also had two points. After five games, Cunningham posted his first 40-plus field-goal percentage, and he had an 18-point, 10-rebound double-double in his third NBA game. On November 15, Cunningham became the youngest player in NBA history to tally at least 25 points, eight rebounds, and eight assists with five three-pointers in a game at 20 years, 51 days. He topped LeBron James (20 years, 100 days) and Trae Young (20 years, 163 days). On November 21, he notched a triple-double with 13 points, 12 rebounds, and 10 assists in a 121–116 loss to the Los Angeles Lakers to become the eighth-youngest player in NBA history to record a triple-double and the youngest in Pistons history.
+
+On January 25, 2022, Cunningham recorded 34 points, eight rebounds, eight assists, four blocks, and two steals in a 110–105 loss to the Denver Nuggets, joining Michael Jordan as the only rookies in NBA history to post such a stat line. He was named the NBA Eastern Conference Rookie of the Month for games played in January. Cunningham was named MVP of the Rising Stars Challenge on February 18, 2022. For the month of March, Cunningham averaged 22.9 points, 7.0 assists, and 5.9 rebounds per game, becoming the first rookie since Michael Jordan to average those numbers over the course of a month. After March 1, Cunningham averaged 21.2 points on 46.2 percent shooting and 6.7 assists per game for the rest of the season.
+He averaged a rookie-best 17.4 points, plus 5.6 assists and 5.5 rebounds, to finish the season. He became one of only 10 NBA players to average 17 points, five assists, and five rebounds in their rookie season, joining Luka Dončić, Tyreke Evans, LeBron James, Steve Francis, Grant Hill, Michael Jordan, Magic Johnson, Alvan Adams, and Oscar Robertson, becoming the only player other than Magic Johnson on that list to not win Rookie of the Year. He ultimately finished third in Rookie of the Year voting, behind winner Scottie Barnes and Evan Mobley, receiving a total of nine first-place votes.
+
+
+Season-ending surgery (2022–2023)
+
+On October 28, 2022, Cunningham scored a career-high 35 points alongside nine rebounds and eight assists in a 132–116 loss to the Atlanta Hawks. On November 9, he was 1 of 11 from the field and finished with a season-low four points in a 128–112 loss to the Boston Celtics. It was the first time he had failed to reach double figures in 2022–23. He did not play again following this game due to a stress fracture in his left shin. On December 12, he was ruled out for the rest of the season after undergoing surgery. He finished with averages of 19.9 points, 6.2 rebounds and six assists, shooting 41.5% overall and 27.9% on three-point attempts in 12 games.
+
+
+## Return from injury (2023–2024)
+In the 2023–24 season opener on October 25, 2023, Cunningham had a game-high 30 points and nine assists in 103–102 loss to the Miami Heat. He had a last-second shot to win the game but it missed as time expired. Three days later, he had 25 points and 10 assists in a 118–102 win over the Chicago Bulls. The win saw the Pistons start the season with a 2–1 record. On December 18, he scored a career-high 43 points in a 130–124 loss to the Atlanta Hawks. On December 26, he scored 41 points in a 118–112 loss to the Brooklyn Nets. The loss saw the Pistons set an NBA single-season record with their 27th straight loss. On December 28, he had 31 points and nine assists in a 128–122 overtime loss to the Boston Celtics. With a 28th straight loss, it tied for the longest losing streak in NBA history. In the following game two days later, the Pistons ended their losing streak with a 129–127 win over the Toronto Raptors, with Cunningham recording 30 points and 12 assists. On January 7 against the Denver Nuggets, Cunningham had three points before leaving midway through the second quarter with a strained left knee.
+
+
+First All-Star, All-NBA and  playoff appearance (2024–25)
+On July 10, 2024, the Pistons signed Cunningham to a five-year, $224 million contract extension. On November 8, 2024, he put up a triple-double with 22 points, 11 rebounds, and 13 assists alongside a game-winning floater in a 122–121 win over the Atlanta Hawks. He recorded a triple-double in his third consecutive game, tying him with Grant Hill (April 11–14, 1997) as the longest such streak in Pistons franchise history. It was his fifth career triple-double, tying him with Isiah Thomas for the second-most triple-doubles in Pistons franchise history. On November 17, Cunningham put up a triple-double with 21 points, 10 rebounds, and 10 assists in a 124–104 win over the Washington Wizards. It was his sixth career-triple double, surpassing Isiah Thomas for the most triple-doubles in Pistons franchise history. On December 7, he had a triple-double with 29 points, a career-high 15 assists, and 10 rebounds in a 120–111 win over the New York Knicks. On December 16, he had his sixth triple-double of the season with 20 points, a career-high 18 assists and 11 rebounds in a 125–124 overtime win over the Miami Heat.
+On January 10, 2025, Cunningham had his 7th triple-double of the season in a 123–114 victory over the Toronto Raptors. He had 22 points, 17 assists and 10 rebounds, and the win put the Pistons' season record back above .500. He also surpassed Isiah Thomas for the most 15-assist triple-doubles in Pistons franchise history with three. On January 30, Cunningham was named as reserve for the 2025 NBA All-Star Game, his first selection. Cunningham finished the regular season averaging 26.1 points, 6.1 rebounds and 9.1 assists per game in 70 contests. He joined Oscar Robertson as the only players in NBA history to average 25+ points, 5+ rebounds and 9+ assists per game at age 23 or younger. Cunningham helped the Pistons make a 30-win improvement this season, earning a 44–38 record and the No. 6 seed in the Eastern Conference.
+On April 19, 2025, Cunningham played his first postseason game against the New York Knicks, recording 21 points, 12 assists, and six rebounds in a 112–123 loss. The next day, in light of finishing the season with career high averages in points, assists, and efficiency, he was announced to be among the three finalists for the NBA Most Improved Player Award alongside Dyson Daniels of the Atlanta Hawks and Ivica Zubac of the Los Angeles Clippers. On April 19, in Game 4, Cunningham had 25 points, 10 rebounds and 10 assists for his first playoff triple-double and the third in franchise history in a 94–93 loss against the New York Knicks. On 30 April, Cunningham finished third for the NBA Most Improved Player Award. Detroit would go on to lose to New York in six games despite Cunningham's 23-point, 7-rebound, 8-assist and 3-steal outing in the 116–113 close-out loss in Game 6.
+
+
+## 2025–26
+On November 1, 2025, Cunningham tied a career-high with 18 assists, along with 21 points, six rebounds, and three steals, in a 122–110 win over the Dallas Mavericks. On November 10, Cunningham recorded his 12th career triple-double with a career-high 46 points, 12 rebounds, and 11 assists, along with five steals and two blocks, in a 137–135 overtime victory over the Washington Wizards, becoming the first player in NBA history to total 45+ points, 10+ rebounds, 10+ assists, and 5+ steals in a single game. In this game, he would surpass Kobe Bryant for most field goals missed in a single game, with 31 misses. For his play in October and November, Cunningham was named Eastern Conference Player of the Month for the first time in his career after leading the Pistons to a 16–4 record, the best in the Eastern Conference. 
+On January 19, 2026, Cunningham earned his second consecutive NBA All-Star selection and was named a starter for the first time. On February 19, Cunningham recorded 42 points, 13 assists, eight rebounds, and two blocks in a 126–111 victory over the New York Knicks. He became the only player in franchise history to record 40-plus points and 10-plus assists at Madison Square Garden and joined LeBron James and Allen Iverson as the only opposing players to reach those numbers in that arena. Cunningham also became the first player in Pistons franchise history to put up at least 40 points, 10 assists, five rebounds, and five three-pointers made in a game. On March 17, Cunningham exited a game against the Washington Wizards after colliding with Tre Johnson and experiencing back spasms. Two days later on March 19, Cunningham was diagnosed with a collapsed lung and was expected to be reevaluated in two weeks. On April 8, Cunningham made his return from injury, putting up 13 points, 10 assists, and five rebounds in a 137–111 win over the Milwaukee Bucks.
+
+
+## National team career
+Cunningham played for the United States at the 2019 FIBA Under-19 World Cup in Heraklion, Greece. In seven games, he averaged 11.7 points, 5.7 assists, and 4.9 rebounds per game, helping his team win the gold medal. In the finals, Cunningham led all scorers with 21 points, along with seven rebounds and seven assists, in a 93–79 win over Mali.
+
+
+## Career statistics
+
+
+## NBA
+
+
+## Regular season
+
+
+## Playoffs
+
+
+## College
+
+
+## Personal life
+Cunningham's father Keith played college football for Texas Tech University in Lubbock. His older brother Cannen Cunningham played college basketball for SMU (Southern Methodist University) in University Park, Texas, surpassing the school record for games played, before playing a season in Poland professionally. Cannen later pursued a coaching career, becoming an assistant coach for Oklahoma State University entering the 2019–20 season. Cade Cunningham has a daughter named Riley, born in 2018. He has been a vegan since 2019.
+Cunningham is a Christian. He has said, “… I know I’m blessed, and I just try to, you know, represent God’s light as much as I can and glorify Him with everything.”
+In November 2025, Cunningham re-signed with Nike and reached a six-year endorsement agreement where he would receive his own signature shoe with the brand. He would become the sixth active NBA player to have a signature shoe deal with Nike joining LeBron James, Kevin Durant, Ja Morant, Devin Booker, and Giannis Antetokounmpo.
+On February 12, 2026, Cunningham acquired a minority ownership stake in the Major League Baseball franchise Texas Rangers.
+
+
+

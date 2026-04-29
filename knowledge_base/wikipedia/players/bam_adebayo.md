@@ -1,0 +1,90 @@
+# Bam Adebayo
+
+Edrice Femi "Bam" Adebayo (  AH-də-BY-oh; born July 18, 1997) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA). He played college basketball for the Kentucky Wildcats before being selected by the Heat with the 14th overall pick in the 2017 NBA draft. He is a three-time NBA All-Star, a five-time NBA All-Defensive Team honoree, and he helped the Heat reach the NBA Finals in 2020 and 2023. He also won a gold medal with the 2020 and 2024 U.S. Olympic teams. He holds the record for the second-highest scoring game by a player in NBA history with 83 points, achieved in a 150–129 win on March 10, 2026, against the Washington Wizards.
+
+
+## Early life, family and education
+Adebayo was born on July 18, 1997, in Newark, New Jersey, to a Nigerian Yoruba father, John Adebayo, and an African American mother, Marilyn Blount. As a child, he was given the nickname "Bam Bam" by his mother when, while watching The Flintstones at age one, he flipped over a coffee table in a manner similar to the show's character Bamm-Bamm Rubble. Adebayo moved with his mother to North Carolina when he was seven. He had little further interaction with his father, who died in 2020 in Nigeria. Adebayo grew up resenting his last name and Nigerian heritage due to the distance from his father. He started to learn more about his Nigerian background at the age of 16 and has since embraced his heritage.
+Adebayo attended Northside High School in Pinetown, North Carolina, where, as a junior, he averaged 32.2 points and 21 rebounds a game. During the summer, Adebayo joined his Amateur Athletic Union (AAU) team, Team Loaded North Carolina, alongside fellow five-star 2016 recruit Dennis Smith Jr. He averaged 15.0 points and 10 rebounds per game on Adidas Uprising Circuit. Later that summer Adebayo competed at the NBPA Top 100 Camp and was named MVP at the 2015 Under Armour Elite 24 game. After his junior season at Northside, he transferred to High Point Christian Academy in High Point, North Carolina. In his season debut, Adebayo scored 22 points and 17 rebounds in an 81–39 win over New Garden Friends School. On December 29, he posted 26 points and 14 rebounds in a 91–63 victory over De'Aaron Fox and Cypress Lakes High School. As a senior, Adebayo averaged 18.9 points per game, 13.0 rebounds per game, 1.4 blocks per game and 1.5 assists per game, and led the Cougars to a NCISAA state championship appearance. Adebayo was named 2016 North Carolina Mr. Basketball. In January 2016, he played in the 2016 McDonald's All-American Game and Jordan Brand Classic.
+Adebayo was rated a five-star recruit and considered one of the best high school prospects of the 2016 class. He was ranked the No. 5 overall recruit and No. 2 power forward in the 2016 high school class.
+On November 17, 2015, Adebayo committed to the University of Kentucky. He joined fellow freshmen Malik Monk, De'Aaron Fox, and Wenyen Gabriel.
+
+
+## College career
+
+On December 7, 2016, Adebayo recorded 16 points and 7 rebounds in an 87–67 win against Valparaiso. On February 21, 2017, Adebayo scored 22 points and 15 rebounds to defeat Missouri in a 72–62 Victory.
+As the number one seed entering the SEC tournament, Kentucky would defeat Georgia in the quarterfinals and beat Alabama in the semifinals. On March 12, 2017, Adebayo grabbed nine rebounds to help the Wildcats defeat Arkansas 82–65 and win the SEC Championship. On March 17, in the first round of the NCAA tournament, Adebayo had 18 rebounds in a 79–70 victory against Northern Kentucky. In the second round of the NCAA Tournament, Adebayo recorded 10 rebounds to help Kentucky defeat Wichita State. On March 24, Kentucky defeated UCLA in the Sweet Sixteen, Adebayo had 12 rebounds in the game. On March 26, Adebayo scored 13 points and seven rebounds in a 75–73 loss in the Elite Eight against North Carolina. After the loss in the Elite Eight, he declared his entry into the 2017 NBA draft on April 5, with him signing an agent 20 days later. In 38 games for Kentucky in the 2016–17 season, Adebayo averaged 13.0 points, 8.0 rebounds, and 1.5 blocks per game and was named second-team All-SEC as well to the SEC All-Freshman team.
+
+
+## Professional career
+
+
+## Miami Heat (2017–present)
+
+
+## 2017–2019: Early years
+On June 22, 2017, Adebayo was selected with the 14th overall pick in the 2017 NBA draft by the Miami Heat. On July 1, he signed his rookie scale contract with the Heat, and joined the team for the 2017 NBA Summer League. In his rookie season, Adebayo appeared in 69 games for the Heat and averaged 6.9 points and 5.5 rebounds per game.
+On November 25, 2018, Adebayo had a career-high 21 rebounds and 16 points in a 125–115 loss against the Toronto Raptors. On December 7, Adebayo recorded 22 points and 10 rebounds in a 115–98 win over the Phoenix Suns. On December 28, he scored 18 points in a 118–94 victory against the Cleveland Cavaliers. Adebayo played all 82 games, averaging 8.9 points and 7.3 rebounds per game.
+
+
+2019–20: Move to starting lineup, first All-Star selection and run to the Finals
+
+After the Heat traded Hassan Whiteside, Bam took on greater responsibilities in his first season as a starter during the 2019–20 season. On December 10, 2019, Adebayo recorded his first career triple-double with a career-high 30 points, 11 rebounds and 11 assists in a 135–121 overtime win against the Atlanta Hawks. On December 14, he had his second career triple-double in a 122–118 overtime win over the Dallas Mavericks, scoring 18 points with 11 rebounds and 10 assists. On December 16, Adebayo was named Eastern Conference Player of the Week for the games played from December 9 to 15, when he averaged 20.0 points, 11.3 rebounds, 8.7 assists per game. On January 27, he recorded 20 points, 10 rebounds and 10 assists in a 113–92 win over the Orlando Magic. On January 30, Adebayo was named to his first NBA All-Star Game. On February 15, he won the NBA All-Star Weekend Skills Challenge competition. Adebayo ended the season averaging 15.9 points, 10.2 rebounds, 5.1 assist, 1.3 blocks, and 1.1 steals.
+In the NBA Playoffs, Bam helped lead the Heat to their first finals appearance since 2014. He scored a playoff career high 32 points, grabbing 14 rebounds and dishing out 5 assists in the decisive 125–113 victory over the Boston Celtics in Game 6 of the Eastern Conference Finals. After Adebayo suffered an injury in game 1 of the 2020 NBA Finals, the Heat went on to lose to the Los Angeles Lakers in 6 games. At the end of the 2019–20 season, Adebayo finished as runner-up in voting for the Most Improved Player Award. He was also named to the NBA All-Defensive Second Team and finished fifth in voting for the Defensive Player of the Year Award.
+
+
+2020–2022: Best Eastern Conference record and return to Conference Finals
+On November 28, 2020, Adebayo signed a five-year, $163 million contract extension with the Heat. On January 23, 2021, Adebayo scored career-high 41 points and delivered nine assists in a 128–124 loss against the Brooklyn Nets. On February 18, Adebayo logged his first triple-double of the season with 16 points, 12 rebounds and 10 assists in a 118–110 win over the Sacramento Kings. Teammate Jimmy Butler posted 13 points, 10 rebounds and 13 assists, making them the first pair in league history to register triple-doubles in the same game more than once. Adebayo finished the season averaging 18.7 points, 9.0 rebounds, and a career high 5.4 assists while being named to a second consecutive All-Defensive Second Team and finishing fourth in Defensive Player of the Year Voting.
+On December 7, 2021, Adebayo underwent right thumb surgery and was ruled out for at least 4-to-6 weeks. Adebayo helped lead the Heat to the number 1 seed in the Eastern Conference with a 53–29 record and a return trip to the Conference Finals where they again faced off against the Boston Celtics. On May 21, 2022, in Game 3 of the Eastern Conference Finals, Adebayo recorded 31 points on 15-of-22 shooting from the field along with 10 rebounds, 6 assists and 4 steals in a 109–103 win over the Boston Celtics. On May 29, in the decisive Game 7, the Heat were eliminated despite 25 points, 11 rebounds and four assists from Adebayo. At the end of the season, Adebayo was named to the All-Defensive Second Team for the third consecutive season and placed fourth in Defensive Player of the Year voting while averaging 19.1 points, 10.1 rebounds, and 3.4 assists.
+
+
+## 2022–23: Return to the Finals
+
+On November 25, 2022, Adebayo scored a season-high 38 points and grabbed 12 rebounds in a 110–107 win over the Washington Wizards. On February 2, 2023, Adebayo was named to his second NBA All-Star Game. On February 8, Adebayo  tied his season high with 38 points on 12-of-16 shooting from the field and 14-of-14 shooting from the free throw line in a 116–111 win over the Indiana Pacers.
+In Game 5 of the Heat's first round playoff series against the top-seeded Milwaukee Bucks, Adebayo recorded his first career playoff triple-double with 20 points, 10 rebounds and 10 assists in a 128–126 overtime win, helping the Heat to the second round of the playoffs. In Game 3 of the Eastern Conference Semifinals, Adebayo recorded 17 points and 12 rebounds in a 105–86 win against the New York Knicks. He also joined LeBron James and Dwyane Wade as the only players in Heat history to record at least 20 playoff double-doubles. In Game 2 of the Eastern Conference Finals, Adebayo posted a near triple-double with 22 points, 17 rebounds and 9 assists in a 111–105 win over the Boston Celtics. He became the 3rd player in Heat postseason history with 20 points, 15 rebounds and 5 assists in a playoff game, joining LeBron James (4x) and Shaquille O'Neal. This was his 23rd career playoff double-double, passing Dwyane Wade (22) and trailing only LeBron James (31) for second most in Heat history. In Game 1 of the NBA Finals, Adebayo had 26 points, 13 rebounds, and five assists in a 104–93 loss against the Denver Nuggets. In Game 2, Adebayo logged 21 points, nine rebounds, and four assists. Helping the Miami Heat win 111–108, and tie the series 1–1. However, the Heat went on to lose the next 3 games of the series to lose the Finals in 5 games. He finished the 2023 NBA Finals leading the Heat in scoring and rebounding with 21.8 points, 12.4 rebounds and 3.2 assists.
+
+
+2023–25: First All-Defensive First Team selection and first round exits
+On November 6, 2023, Adebayo put up a triple-double with 22 points, 19 rebounds, and 10 assists along with two steals and two blocks in a 108–107 win over the Los Angeles Lakers. On January 15, 2024, Adebayo was named the NBA Eastern Conference Player of the Week for the games played from January 8 to 14, his second career NBA Player of the Week award. He led the Heat to 3–1 week with averages of 23.0 points, 11.0 rebounds, 5.8 assists and 1.0 block. On February 1, Adebayo was named to his third All-Star Game as an Eastern Conference reserve. On March 17, Adebayo put up 20 points, 17 rebounds, along with a buzzer-beating, game-winning three-pointer in a 104–101 win over the Detroit Pistons. At the end of the season, Adebayo was named to his first All-Defensive First Team and placed third in Defensive Player of the Year voting.
+On April 24, 2024, in Game 2 of the first round of the playoffs against the Boston Celtics, Adebayo had 21 points and 10 rebounds in a 111–101 win. In Game 4, Adebayo recorded 25 points, 17 rebounds and 5 assists in a 102–88 loss against the Celtics. This was his 31st career playoff double-double, tying LeBron James for most in Heat history. Miami would go on to lose to Boston in five games despite a playoff career-high 22.6 points per game from Adebayo.
+On July 6, 2024, Adebayo signed a three-year, $165 million contract extension with the Heat. On February 1, 2025, Adebayo had 30 points, 12 rebounds, nine assists, two steals, three blocks and hit a 19-foot game-winning buzzer beater against the San Antonio Spurs. On March 3, Adebayo recorded a double-double with 19 points and 15 rebounds in a 106–90 win over the Washington Wizards. It was his 222nd career double-double, surpassing the previous record set by Rony Seikaly for the most double-doubles recorded in Heat franchise history. On April 18, Adebayo posted 17 points, 11 rebounds, five assists, two steals and five blocks during a 123–114 overtime win against the Atlanta Hawks in the play-in. The win allowed the Heat to become the first tenth seed team to clinch a playoff appearance.
+
+
+2025–26: Career and record-high game scoring
+On October 30, 2025, Adebayo scored 31 points and grabbed 10 rebounds in a 107–101 loss to the San Antonio Spurs. On January 17, 2026, Adebayo recorded 30 points, 12 rebounds, four assists, and a then career-high six three-pointers to lead the Heat to a 122–120 victory over the defending champion Oklahoma City Thunder. On March 8, 2026, Adebayo put up 24 points, nine rebounds, and six assists in a 121–110 win over the Detroit Pistons and reached 10,000 career points, joining Dwyane Wade as the only players to achieve at least 10,000 career points in Heat franchise history.
+On March 10, 2026, Adebayo scored 83 points in a 150–129 victory over the Washington Wizards. He broke the league records for free throws made and free throws attempted in a game, and scored the second-most points in a game, overtaking Kobe Bryant's 81 and trailing only Wilt Chamberlain's 100-point game. Adebayo also broke the Heat's franchise records for points scored in a quarter (31), in a half (41), and in a game (83). He went 20-of-43 from the field, including 7-of-22 from 3-point range, and 36-of-43 from the free throw line. Reactions to Adebayo's feat were mixed, with detractors criticizing the number of free throws attempted and deliberate fouls by Heat players to regain possession. However, some pointed out that Adebayo's unlikeliness made the achievement more impressive.
+
+
+## National team career
+Adebayo was cut from the United States national team for the 2019 World Cup, but he was named to their 2020 Olympic team and won a gold medal. After considering the Nigerian team, he was chosen, and committed to play, for the US National team at the 2024 Olympics. Team USA would go on to win the gold medal in a rematch against France.
+
+
+## Career statistics
+
+
+## NBA
+
+
+## Regular season
+
+
+## Playoffs
+
+
+## College
+
+
+## Personal life
+Adebayo is currently in a relationship with Las Vegas Aces center A'ja Wilson.
+
+
+
+
+
+## Career statistics from NBA.com · Basketball Reference
+Kentucky Wildcats bio
+Bam Adebayo at FIBA
+Bam Adebayo at USA Basketball (archive September 7, 2015)
+Bam Adebayo at Team USA (archive March 18, 2023)
+Bam Adebayo at Olympics.com
+Bam Adebayo at Olympedia

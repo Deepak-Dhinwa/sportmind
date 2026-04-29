@@ -1,0 +1,92 @@
+# Bojan Bogdanovic
+
+Bojan Bogdanović (Croatian pronunciation: [bǒjan boɡdǎːnovitɕ]; born 18 April 1989) is a Croatian former professional basketball player. Standing at 6 ft 7 in (2.01 m), he played the small forward position. In the National Basketball Association (NBA), Bogdanović played for the Brooklyn Nets, Washington Wizards, Indiana Pacers, Utah Jazz, Detroit Pistons, and New York Knicks. He also represented the Croatian national team internationally.
+
+
+## Professional career
+
+
+## Early years
+Born in Mostar, Bosnia and Herzegovina, Bogdanović started his basketball career in 2004 with his hometown club Zrinjski Mostar where he played for one season. In 2005, he signed a five-year deal with Real Madrid, but was loaned back to Zrinjski Mostar for the 2005–06 season. In 2006–07 and 2007–08, he played for Real Madrid's junior team, Real Madrid B, in Spain's 4th-tier league, the Liga EBA. In 2008, he was loaned to CB Murcia for the 2008–09 season. In January 2009, he re-joined Real Madrid's junior team, Real Madrid B. Following the 2008–09 season, he parted ways with Real Madrid.
+
+
+## Cibona Zagreb (2009–2011)
+
+In August 2009, Bogdanović signed a four-year deal with Cibona Zagreb. In July 2010, he signed a three-year contract extension with Cibona. Bogdanovic cites this relation as part of the reason he has decided to represent Croatia internationally. Following the 2010–11 season, he parted ways with Cibona.
+
+
+## Fenerbahçe Beko (2011–2014)
+On 19 June 2011, Bogdanović signed a multi-year deal with Fenerbahçe Beko. On 23 June 2011, he was selected with the 31st overall pick in the 2011 NBA draft by the Miami Heat. He was later traded to the Minnesota Timberwolves, and then again to the New Jersey Nets on draft night.
+In September 2012, Fenerbahçe confirmed Bogdanović would return for the 2012–13 season. In July 2013, following a breakdown in negotiations with the Brooklyn Nets on a possible contract buy-out, Bogdanović announced his decision to return to Fenerbahçe for the 2013–14 season.
+
+
+## Brooklyn Nets (2014–2017)
+On July 20, 2014, Bogdanović signed a three-year, $10 million contract with the Brooklyn Nets. After starting the first 19 games of the 2014–15 season alongside Joe Johnson on the wing, Bogdanović lost his starting spot on December 10 against the Chicago Bulls in favour of Sergey Karasev. He later regained his starting spot on January 10 against the Detroit Pistons. In the Nets' regular season finale on April 15 against the Orlando Magic, Bogdanović had a season-best game with 28 points on 12-of-17 shooting to help the Nets clinch the No. 8 seed in the Eastern Conference with a 101–88 win. The Nets lost to the Atlanta Hawks 4–2 in the first round of the playoffs.
+On November 11, 2015, Bogdanović helped the Nets record their first win of the season, scoring a season-high 22 points in a 106–98 victory over the Houston Rockets. He topped that season high mark with 24 points on February 26, in a 116–106 win over the Phoenix Suns. On March 5, 2016, he scored a career-high 44 points in a 131–114 win over the Philadelphia 76ers. His total was the most for a Nets player since Deron Williams scored 57 on March 4, 2012, and the most by any Nets player since the team moved to Brooklyn prior to the 2012–13 season. In the Nets' regular season finale on April 13, he tied his career high with seven three-pointers and scored 29 points in a 103–96 loss to the Toronto Raptors. The Nets lost their final 10 games of the season and finished with a 21–61 win–loss record.
+In the Nets' season opener on October 26, 2016, Bogdanović scored a team-high 21 points in a 122–117 loss to the Boston Celtics.
+
+
+## Washington Wizards (2017)
+
+On February 22, 2017, Bogdanović was traded, along with Chris McCullough, to the Washington Wizards in exchange for Andrew Nicholson, Marcus Thornton and a 2017 protected first round draft pick. On March 1, he had a 27-point effort in a 105–96 win over the Toronto Raptors. Four days later, he scored 15 of his 27 points and made five of his career-high eight three-pointers, including the game-winner, during the fourth quarter of the Wizards' 115–114 win over the Orlando Magic. On March 7, he scored 29 points and set a franchise record for free throws made by going 16 of 16 in a 131–127 win over the Phoenix Suns.
+
+
+## Indiana Pacers (2017–2019)
+On July 10, 2017, Bogdanović signed with the Indiana Pacers. In his Pacers' debut on October 18, 2017, Bogdanović scored 14 points in a 140–131 win over the Brooklyn Nets. On February 5, 2018, he scored a season-high 29 points in a 111–102 loss to the Washington Wizards. On March 5, he tied his season high with 29 points in a 92–89 win over the Milwaukee Bucks. In Game 3 of the Pacers' first-round playoff series against the Cleveland Cavaliers, Bogdanović scored 19 of his then playoff career-high 30 points in the second half, finishing 7 of 9 on 3-pointers, in a 92–90 win that saw the Pacers take a 2–1 lead. The Pacers went on to lose the series in seven games.
+On December 1, Bogdanović scored a then season-high 27 points in a 111–110 loss to the Sacramento Kings. On February 2, 2019, he set a new season high with 31 points in a 95–88 win over the Miami Heat. On February 7, he scored 29 points in a 116–92 win over the Los Angeles Clippers. On February 11, he was named Eastern Conference Player of the Week for Week 17 of the 2018–19 season, thus marking his first career player of the week award. On February 28, he set a new season high with 37 points in a 122–115 win over the Minnesota Timberwolves. On March 24, he scored 26 of his 35 points in the first half of the Pacers' 124–88 win over the Denver Nuggets.
+
+
+## Utah Jazz (2019–2022)
+On July 7, 2019, Bogdanović signed a four-year, $73 million contract with the Utah Jazz, making him the all-time highest-paid Croatian athlete. He hit two buzzer-beating game-winners in his first season with Utah: November 8, 2019, against the Milwaukee Bucks and February 9, 2020, at the Houston Rockets. On May 19, the Jazz announced that Bogdanović had undergone a successful surgery in repairing a ruptured ligament in his right wrist and was expected to be sidelined for the remainder of the 2019–20 season.
+On May 1, 2021, Bogdanović scored a season-high 34 points on 12-of-22 shooting from the field and 6-of-11 from the three, in addition to four rebounds and four assists across 39 minutes in a 106–102 win against the Toronto Raptors. On May 7, Bogdanović scored a career-high 48 points on 16-of-23 shooting from the field and 8-of-11 from the arc in a 127–120 win over the Denver Nuggets.
+On May 23, during the first round of the playoffs, Bogdanović recorded 29 points, five assists and two steals in a 109–112 Game 1 loss to the Memphis Grizzlies. The Jazz ended up winning the series in five games. On June 16, during the second round of the playoffs, Bogdanović scored 32 points, alongside nine 3-pointers, in a 111–119 Game 5 loss to the Los Angeles Clippers. The Jazz lost the series in six games.
+On January 5, 2022, Bogdanović recorded a season-high 36 points, alongside 13 rebounds and four assists, in a 115–109 win over the Denver Nuggets.
+On April 16, during the first round of the playoffs, Bogdanović logged 26 points and four assists in a 99–93 Game 1 win over the Dallas Mavericks. Two days later, he scored 25 points in a 104–110 Game 2 loss. The Jazz lost the series in six games.
+
+
+## Detroit Pistons (2022–2024)
+On September 26, 2022, Bogdanović was traded to the Detroit Pistons in exchange for Kelly Olynyk, Saben Lee, and minimal cash considerations. Bogdanović made his Pistons debut on October 19, logging 24 points and five rebounds in a 113–109 win over the Orlando Magic. On October 31, he signed a two-year, $39.1 million contract extension with the Pistons. On December 11, 2022, Bogdanović scored a season-high 35 points in a 124–117 loss to the Los Angeles Lakers.
+On January 3, 2024, Bogdanović scored a season-high 36 points and accumulated 7 rebounds in a return to Utah, a 154–148 overtime loss.
+
+
+## New York Knicks (2024)
+On 8 February 2024, Bogdanović and Alec Burks were traded to the New York Knicks in exchange for Ryan Arcidiacono, Malachi Flynn, Evan Fournier, Quentin Grimes and two second-round picks. On 30 April 2024, it was announced that Bogdanović would miss the remainder of the 2024 NBA playoffs after undergoing season-ending surgeries on his left foot and left wrist. On 6 July 2024, Bogdanović was traded back to the Brooklyn Nets alongside Mamadi Diakite, Shake Milton who was signed and traded, four unprotected first-round picks, an unprotected pick swap and a second-round pick in exchange for Mikal Bridges, Keita Bates-Diop and a second–round pick. The trade was notable for being the first trade between the two rival franchises since 1983.
+Bogdanović's injuries prevented him from playing for the Nets. On 19 February 2025, it was announced that Bogdanovic would undergo a season ending foot surgery. He was waived later that day to free up roster space for Killian Hayes. On 29 June 2025, Bogdanović announced his retirement, citing his recurring foot injuries.
+
+
+## Career statistics
+
+
+## NBA
+
+
+## Regular season
+
+
+## Playoffs
+
+
+## EuroLeague
+
+
+## National team career
+
+Bogdanović played for the Croatian Under-16 national team in 2005, the Under-18 team in 2006 and 2007, and the Under-20 team in 2009. In 2010, he joined the senior Croatian national team for the 2010 FIBA World Championship. In July 2012, the Croatian national team's head coach, Jasmin Repeša, kicked Bogdanović off the team for disciplinary reasons.
+He re-joined Croatia for the 2013 EuroBasket and the 2014 FIBA World Cup. He also represented Croatia at the 2015 EuroBasket, where they were eliminated in the eighth finals by Czech Republic. Over six tournament games, he averaged 10.8 points, 3.4 rebounds and 1.2 assists on 31.5% shooting from the field.
+Bogdanović also represented Croatia at 2016 Summer Olympics in Rio de Janeiro. He led all scorers with 25.3 points per game, while shooting 50.6 percent from the field and 45 percent from the 3-point line.
+
+
+
+## List of NBA single-game 3-point field goal leaders
+List of European basketball players in the United States
+
+
+
+
+
+## Bojan Bogdanović on Instagram
+Career statistics from NBA.com · Basketball Reference
+Bojan Bogdanović at euroleague.net
+Bojan Bogdanović at FIBA.com
+Bojan Bogdanović at NBA.com
+Bojan Bogdanović at tblstat.net

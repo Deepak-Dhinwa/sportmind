@@ -1,0 +1,15 @@
+# Isaiah Thomas
+
+Isaiah or Isiah Thomas may refer to:
+
+
+## Sportsmen
+Isiah Thomas (born 1961), American retired Hall of Fame basketball player and coach
+Isaiah Thomas (basketball) (born 1989), American basketball player
+Isiah Thomas (boxer) (born 1989), American boxer
+Isaiah Thomas (American football) (born 1998), American football player
+
+
+## Other people
+Isaiah Thomas (publisher) (1749–1831), American revolutionary-era publisher and author
+Isaiah Thomas (politician) (born 1984), American politician

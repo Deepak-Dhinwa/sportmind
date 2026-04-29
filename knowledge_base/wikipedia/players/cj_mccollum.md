@@ -1,0 +1,116 @@
+# CJ McCollum
+
+Christian James McCollum (born September 19, 1991) is an American professional basketball player for the Atlanta Hawks of the National Basketball Association (NBA). He played college basketball for the Lehigh Mountain Hawks and was named the Patriot League Player of the Year in 2010 and 2012. McCollum was selected by the Portland Trail Blazers tenth overall in the 2013 NBA draft. He was chosen as the NBA Most Improved Player in 2016. McCollum was traded to the New Orleans Pelicans in 2022, the Washington Wizards in 2025, and to the  Atlanta Hawks in 2026. McCollum served as president of the National Basketball Players Association from 2021 to 2025.
+
+
+## High school career
+McCollum played high school basketball for the Golden Eagles at GlenOak High School in his native city of Canton, Ohio. As a freshman in 2005, he was considerably undersized, standing at only 5 ft 2 in (1.57 m). Despite his stature, McCollum played varsity as a freshman for the Golden Eagles, relying on his athleticism. McCollum would eventually benefit from a late growth spurt, gaining five inches by his second year and another four inches by his third year of high school; it proved enough to put him on the radar for college recruitment. In his very first game as a junior, McCollum came away with 54 points to set both school and Stark County records.
+Throughout his high school career, McCollum worked at refining his shooting stroke; the successful effort was reflected in the 29.3 points per game he averaged during his senior season. By graduation, McCollum had become the leading scorer in Golden Eagles history, with 1,405 career points, and was named Gatorade Ohio Player of the Year for his final campaign, the 2008–09 season.
+
+
+## College career
+
+McCollum played at the private research school Lehigh University for four seasons. Listed at 6 ft 3 in (1.91 m) and 165 lb (75 kg) as a freshman in 2009–10, he made an immediate impact for the Mountain Hawks. He played in 33 games, starting in 31, and averaged 19.1 points and 5 rebounds per game while shooting 45.9 percent from the field. He was the leading freshman scorer in the nation and the first player in Patriot League history to be named conference Player and Rookie of the Year. Also, he was an Associated Press honorable mention All-American. McCollum led the Mountain Hawks to the 2010 NCAA tournament, where he put up 26 points in a first-round loss to a top-seeded Kansas team.
+As a sophomore in 2010–11, McCollum increased his averages to 21.8 points and 7.8 rebounds per outing. He played and started in 31 contests and shot 39.9 percent from the field. His shooting percentages dipped to 39.9 percent from the field, as did Lehigh's record, and McCollum was edged out for conference Player of the Year honors by Mike Muscala of the Bucknell Bisons. McCollum was named First Team All-Conference.
+As a junior in the 2011–12 campaign, McCollum again earned Patriot League Player of the Year, as well as his third straight First Team All-Conference designation. In 2012, the Mountain Hawks beat the Duke Blue Devils, 75–70, in the school's first ever victory at the NCAA Division I tournament, during which McCollum posted a game-high 30 points; this marked only the sixth time in the history of the tournament that a team seeded 15th defeated a team seeded second.
+Over his four college years, McCollum added 30 pounds of muscle to fill out his frame. Even though he was already considered virtually destined to be a top NBA draft pick by his third year, he decided to finish his final year of college instead of leaving sooner for the NBA. A consummate student of journalism, McCollum penned an article for Sporting News explaining why he opted to continue on with his education.
+On November 25, 2012, McCollum scored 26 points in a 91–77 win over Sacred Heart to pass Rob Feaster as the Patriot League's all-time leading scorer. On January 5, 2013, McCollum broke his left foot in a game against the VCU Rams, ending his season early. He was a 2012–13 Senior CLASS Award finalist. McCollum went on to graduate from Lehigh University with a Bachelor of Arts in Journalism.
+
+
+## College awards and honors
+2× Patriot League Player of the Year (2010, 2012)
+3× First Team All-Patriot League (2010–2012)
+3× Patriot League All-Tournament team (2010–2012)
+Patriot League Tournament MVP (2012)
+Patriot League Rookie of the Year (2010)
+Patriot League's all-time leading scorer (2361 points)
+
+
+## Professional career
+
+
+Portland Trail Blazers (2013–2022)
+
+
+## 2013–2015: Early years
+
+The first player to ever enter the NBA from Lehigh, McCollum was picked tenth overall in the 2013 NBA draft by the Portland Trail Blazers. He signed his rookie scale contract with the franchise on July 11, and he proceeded to play for them in the NBA Summer League, averaging 21 points and 4 rebounds per game.
+Having convened for an annual photoshoot, the rookie class of 2013 took an NBA.com survey, according to which McCollum was voted the 2013–14 Rookie of the Year (together with Victor Oladipo). McCollum sat out the first six weeks of the regular season with a foot injury. On January 1, 2014, he was assigned to the Idaho Stampede of the development league. He was recalled by the Blazers on January 5 and made his NBA debut three days later, during which he notched 4 points as Portland beat the Orlando Magic, 110–94. On February 8, McCollum posted a season-high 19 points in a 117–110 victory over the Minnesota Timberwolves.
+On October 27, 2014, Portland exercised its third-year team option to extend McCollum's rookie scale contract through 2015–16. For his sophomore season, he played 15.7 minutes per outing while averaging 6.8 points, 1.5 rebounds, and 1 assist across 62 games. During a first-round playoff loss to the Memphis Grizzlies, Game 5, McCollum scored a then career-high of 33 points.
+
+
+2015–2016: Most Improved Player
+Exercising their fourth-year team option on September 30, 2015, the Trail Blazers extended McCollum's rookie scale contract through the 2016–17 season. With four of Portland's previous starters—LaMarcus Aldridge, Nicolas Batum, Wesley Matthews, and Robin Lopez—having departed, only star point guard Damian Lillard remained; thus McCollum was elevated to starting shooting guard to join Lillard in the backcourt for the 2015–16 campaign. As such, he saw his minutes increase to 34.8 per contest, and he started in all 80 games that he played. For the season, he would average 20.8 points, 3.2 rebounds, and 4.3 assists a night across 80 games. In the season-opener on October 28, McCollum posted a career-high 37 points, scoring 22 of which in the first quarter alone, helping the Blazers defeat the New Orleans Pelicans, 112–94. After injury decommissioned Lillard in late December, McCollum filled in as the primary point guard. On December 27, McCollum put up 35 points to go along with 11 rebounds and 9 assists during a 98–94 win over the Sacramento Kings. No Blazer had recorded numbers on par with McCollum's near triple-double in the last 29 years (Clyde Drexler posted 34 points, 11 rebounds, and 9 assists or more on five occasions.) McCollum was able to resume his starting shooting guard role on January 4 as Lillard was back on his feet, returned from injury. On February 12, he was named among the invites to All-Star Weekend's Three-Point Contest. On April 5, he posted his eighth 30-point game of the season, during a 115–107 win over Sacramento. By the end of the regular season, he averaged 20.8 points per game, while Lillard did 25.1 points, making the first backcourt to average 20 or more points apiece in Blazers' history. McCollum would subsequently earn NBA Most Improved Player honors for his breakout 2015–16 season.
+McCollum helped the Blazers claim victory over the Los Angeles Clippers, 4–2, in the first round of the playoffs. However, Portland was then ousted in the second round matchup by the Golden State Warriors, going down 4–1; though it would come in the 125–121 loss that ended the Blazers' postseason run, McCollum recorded his third 27-point game of the playoffs during Game 5.
+
+
+2016–2018: playoff disappointment
+
+On July 27, 2016, McCollum signed a four-year, $106 million contract extension with Portland. McCollum would start in all 80 games that he played and would average 23 points as well as 3.6 rebounds and as many assists. In the season-opener on October 25, he put up 25 points to help defeat the Utah Jazz, 113–104. Only four days later, he posted 23 points, 10 rebounds, 3 assists, 3 steals, and a career-high 3 blocks as Portland beat the Denver Nuggets, 115–113, in an overtime contest. During a 100–94 win over the Memphis Grizzlies on November 6, he matched his earlier career-high by racking up 37 points. On November 20, McCollum scored 33 points and hit a career-high 6 three-pointers, to defeat the Brooklyn Nets 129–109. On December 10, he set a new career-high of 7 three-pointers made and finished with 34 points scored in a 118–111 loss to the Indiana Pacers. He set another career-high for points scored with 43 on January 1 during a 95–89 win over the Timberwolves. In a game on January 13, a 115–109 loss to the Orlando Magic, he posted 26 points to extended his streak of games with 25-plus points to eight in a row, the third-longest in Blazers' history (only Geoff Petrie with 11 and Clyde Drexler with 9 games have had longer among Blazers players.) On February 7, McCollum scored 32 points; the last two of which, on a runner from the top of the lane, clinched the 114–113 win over the Dallas Mavericks with 0.9 seconds left. In a 122–113 victory over Denver on March 28, McCollum finished with a 39-point tally. The Blazers finished the regular season with a 41–41 record and entered the playoffs as the eighth seed.
+On April 16, 2017, Portland lost 121–109 to the Warriors in Game 1 of the first-round series; yet McCollum's 41 points during the game were his postseason career-best and made him only the eighth Blazer with a 40-point playoff performance.
+McCollum missed the opener of the 2017–18 season due to a single-game suspension incurred when he left the bench area once during a preseason game. McCollum would play in 80 games and start in all of them while averaging 21.4 points, 4 rebounds, and 3.4 assists a night. In his season debut on October 20, he put up 28 points on 12-of-18 shooting to lead his team past the Indiana Pacers, 114–96. He recorded as many as 36 points during a 98–97 loss to the Memphis Grizzlies on November 7. On the 25th of that month, McCollum had 26 points and scored 7 straight in the final quarter, as he helped Portland stage a 10–0 scoring run to overcome a 17-point deficit and defeat the Washington Wizards, 108–105. On January 1, to defeat the Chicago Bulls, 124–120, he scored 25 of 32 points after halftime, including the game-clinching basket with 56.5 seconds left in overtime. During a game on January 31, as Portland defeated the Bulls, 124–108, McCollum scored a franchise-record 28 points in the first quarter alone, and he finished with a career-high 50 points in only three periods before heading to the bench for the fourth. He joined Damian Lillard, Damon Stoudamire, Brandon Roy, Andre Miller, Clyde Drexler and Geoff Petrie as Trail Blazers to score 50 points or more. On March 28, McCollum had a 42-point effort, which came in a 108–103 loss to the Grizzlies. In Game 4 of the Trail Blazers' first-round playoff series against the New Orleans Pelicans, McCollum scored 38 points in a 131–123 loss. The loss eliminated Portland from the playoffs, the last in a four-game sweep.
+
+
+2018–2022: Conference Finals and last years in Portland
+
+Across 70 games, starting in all of them, McCollum would average 21 points, 4 rebounds, and 3 assists for the season. On November 6, 2018, McCollum scored 40 points during a 118–103 win over the Milwaukee Bucks. On December 12, he matched his season high with 40 points during a 92–83 loss to the Memphis Grizzlies. On December 23, in a game against the Warriors, McCollum moved past Damon Stoudamire (717) into fifth on the Blazers' career list for 3-pointers. On December 30, he broke out of a six-game funk by hitting 13 of 18 shots in a 35-point performance as the Trail Blazers defeated the Philadelphia 76ers 129–95. On January 22, he scored 31 points and made seven 3-pointers in a 123–114 loss to the Oklahoma City Thunder, thus passing Nicolas Batum (751) for fourth on the franchise's all-time 3-pointers list. On January 26, he recorded his first career triple-double with 28 points, 10 assists, and 10 rebounds in a 120–111 win over the Atlanta Hawks. On March 1, he scored 35 points and matched a career best by making seven 3-pointers in a 119–117 loss to the Toronto Raptors. McCollum missed 10 games over late March and early April with a left knee injury. In Game 3 of the Trail Blazers' second-round playoff series against the Denver Nuggets, McCollum matched his career playoff high with 41 points during a 140–137 win in quadruple-overtime. In Game 6, he scored 30 points in a 119–108 win, helping the Blazers tie the series against the Nuggets at 3–3. In the deciding Game 7, he scored a game-high 37 points in a 100–96 win, including the game-sealing step back jumper with 15 seconds remaining, to help the Blazers advance to the Western Conference Finals for the first time since 2000. Portland went on to lose the conference finals in a four-game sweep to the Warriors.
+On November 21, 2019, McCollum scored a then season-high 37 points, along with 6 rebounds and 10 assists, in a 137–129 loss to the Milwaukee Bucks. On February 23, 2020, he would surpass that season-high with a 41-point, 9-rebound, 12-assist performance in a 107–104 victory over the Detroit Pistons. McCollum matched his season-high on March 2, scoring 41 points in a 130–107 win over the Orlando Magic.
+On December 26, 2020, McCollum scored a season-high 44 points, along with a game-winning three-pointer, in a 128–126 overtime win against the Houston Rockets. On August 7, 2021, McCollum was elected president of the National Basketball Players Association, succeeding Chris Paul who had served since 2013.
+On December 7, 2021, McCollum was diagnosed with a pneumothorax and was ruled out indefinitely. On January 17, 2022, he made his return from the injury, logging 16 points in a 98–88 win over the Orlando Magic.
+
+
+New Orleans Pelicans (2022–2025)
+
+On February 8, 2022, Portland traded McCollum, Larry Nance Jr., and Tony Snell to the New Orleans Pelicans in exchange for Josh Hart, Nickeil Alexander-Walker, Tomáš Satoranský, Didi Louzada, a protected 2022 first-round draft pick, the better of New Orleans' and Portland's 2026 second-round draft pick,s and New Orleans' 2027 second-round draft pick. Two days later, McCollum made his Pelicans debut, putting up 15 points, seven rebounds, and five assists in a 112–97 loss to the Miami Heat. On April 13, during the NBA play-in tournament, McCollum recorded 32 points, six rebounds, and seven assists leading the Pelicans past the San Antonio Spurs 113–103 and advancing New Orleans to the eight seed game.
+On September 24, 2022, McCollum agreed to a two-year, $64 million extension with the Pelicans. On December 22, McCollum put up 40 points, eight rebounds, and nine assists in a 126–117 win over the San Antonio Spurs. He joined Anthony Davis, DeMarcus Cousins, and Tyreke Evans as the only players in Pelicans history to put up at least 40 points, eight rebounds, and eight assists in a game. On December 30, McCollum scored 42 points on 11 three-pointers in a 127–116 win over the Philadelphia 76ers. His 11 three-pointers were a Pelicans franchise record for the most three-pointers made in a game. With the Pelicans losing in the play-in game against the Minnesota Timberwolves, this marked the first time that McCollum had missed the playoffs in his career.
+On November 2, 2023, McCollum scored a game-leading 33 points during a 125–116 win over the Detroit Pistons.
+On January 3, 2025, McCollum tied a career-high 50 points in a 132–120 win over the Washington Wizards. In 56 starts for New Orleans during the 2024–25 NBA season, he averaged 21.1 points, 3.8 rebounds, and 4.1 assists. On March 31, McCollum was ruled out for the remainder of the season due to a bone bruise in his right foot.
+
+
+## Washington Wizards (2025–2026)
+McCollum was involved in a trade between the Pelicans and the Washington Wizards, sending him, teammate Kelly Olynyk and a future second round pick for Jordan Poole, Saddiq Bey and the 40th pick in the 2025 NBA Draft. The trade was officially completed on July 6, 2025. On November 25, McCollum scored a season-high 46 points on 17-for-25 shooting with 10 three-pointers out of 13 attempts in a 132–113 victory over the Atlanta Hawks. The 10 three-pointers tied the franchise record set by Trevor Ariza in 2014 for most three-pointers in a game.
+
+
+## Atlanta Hawks (2026–present)
+On January 9, 2026, McCollum, alongside Corey Kispert, was traded to the Atlanta Hawks in exchange for Trae Young.
+
+
+## Career statistics
+
+
+## NBA
+
+
+## Regular season
+
+
+## Playoffs
+
+
+## College
+
+
+## Broadcasting career
+McCollum hosts a weekly podcast, Pull Up with CJ McCollum, that is produced by Cadence13. It is co-hosted by ESPN analyst Jordan Schultz. McCollum has a podcast studio in his home and brings portable recording equipment with him when he is out of town. Guests on the show have included Kevin Durant and Carmelo Anthony. In a March 2020 episode of the podcast, McCollum was recording when he received news that the NBA was suspending the 2020 season due to the COVID-19 pandemic.
+On May 30, 2022, McCollum signed a multiplatform deal with ESPN to be an NBA analyst.
+
+
+## Personal life
+McCollum has been married to his college sweetheart, Elise Esposito, since October 27, 2020. They have one son named Jacobi, who was born on January 10, 2022. McCollum's older brother, Errick, is a EuroLeague winner professional basketball player. Off the court, McCollum has long taken a keen interest in journalism. As such, he has written articles concerning the NBA for various media outlets; in one of his pieces, he interviewed the Commissioner of the league Adam Silver.
+McCollum is involved in his community as a radio personality and philanthropist. In 2016, he opened up the CJ McCollum Dream Center, which is an innovative learning room at the Blazers Boys & Girls Club outfitted with new computers, books, art, and learning tools. The Center aims to provide a safe and inspiring space for underserved youth to learn, explore, create, and grow. McCollum also helps foster local youths' interest in journalists through an initiative called CJ's Press Pass; it grants aspiring journalists access to postgame news conferences and provides them the opportunity to attend events with McCollum, to receive personalized mentorship from members of the media, and to have their work published.
+McCollum is a wine enthusiast. During the 2020 NBA Bubble, he brought 84 bottles in with him. He has his own label, McCollum Heritage 91, named after the street he grew up on and his birth year.
+
+
+
+## List of NBA career 3-point scoring leaders
+List of NBA single-game 3-point field goal leaders
+List of NBA annual free throw percentage leaders
+List of NCAA Division I men's basketball career scoring leaders
+Portland Trail Blazers draft history
+
+
+
+
+
+## Career statistics from NBA.com  · Basketball Reference
+Lehigh Mountain Hawks bio

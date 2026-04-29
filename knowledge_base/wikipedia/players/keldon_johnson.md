@@ -1,0 +1,61 @@
+# Keldon Johnson
+
+Keldon Wilder Johnson (born October 11, 1999) is an American professional basketball player for the San Antonio Spurs of the National Basketball Association (NBA). He played college basketball for the Kentucky Wildcats.
+Johnson attended Oak Hill Academy in Mouth of Wilson, Virginia. He was selected in the first round of the 2019 NBA draft by the San Antonio Spurs with the 29th overall pick. In 2021, he won an Olympic gold medal in basketball as a member of the United States national team.
+
+
+## Early life
+Johnson was born in Chesterfield, Virginia, a suburb of Richmond, and grew up in the rural Virginia community of South Hill. The son of a truck driver and a nurse, he grew up with three siblings. Often called a "country boy," he enjoyed fishing and hunting growing up.
+
+
+## High school career
+Johnson played his freshman and sophomore high school seasons at Park View High School in South Hill. His freshman basketball season, he broke the Virginia High School League ninth-grade scoring record by averaging just over 27 points per game, and he earned all-state first team honors as a sophomore, positioning himself as a top 15 national that year. He then joined the elite basketball programs at Huntington Prep School in West Virginia and Oak Hill Academy in Virginia, in his junior and senior years, respectively.
+During his time at Oak Hill, he was named the Virginia Gatorade High School Player of the Year and was selected to both the McDonald's All American Game and the Jordan Brand Classic Game.
+Johnson was rated as a five-star recruit and ranked as the 13th best player in the 2018 class by 247Sports.com. He committed to University of Kentucky to play college basketball, being joined by fellow recruits Immanuel Quickley, E. J. Montgomery, Ashton Hagans, and Tyler Herro.
+
+
+## College career
+As a freshman, Johnson averaged 13.5 points and 5.9 rebounds per game, shooting 46.1 percent from the field and 38.1 percent from behind the arc. He scored 19 points in a win over top-ranked Tennessee on February 16, 2019. Johnson pulled down a career-high 17 rebounds in a victory over Auburn. Following the season he declared for the NBA draft.
+
+
+## Professional career
+
+
+San Antonio Spurs (2019–present)
+On June 20, 2019, Johnson was selected with the 29th overall pick by the San Antonio Spurs in the 2019 NBA draft. The Spurs obtained the draft pick used to draft Johnson in a 2018 trade; in that trade, Spurs small forward Kawhi Leonard was sent to the Toronto Raptors in exchange for Raptors shooting guard DeMar DeRozan, center Jakob Pöltl, and a draft choice. Johnson was later listed in the roster of San Antonio Spurs for 2019 NBA Summer League hosted at Vivint Arena. Johnson signed with the Spurs on July 1, 2019. On October 30, 2019, Johnson received his first assignment to the Austin Spurs, the Spurs’ affiliate team in the NBA G League.
+Johnson made his NBA debut on November 22, 2019, playing two minutes in a 115–104 loss to the Philadelphia 76ers. On August 11, 2020, Johnson scored a season-high 24 points in a 123–105 win over the Houston Rockets with eleven rebounds and three assists.
+On January 17, 2023, Johnson scored a career high 36 points along with 11 rebounds and 1 assist in a 106–98 win against the Brooklyn Nets. On July 18, 2022, Johnson signed a four-year, $80 million rookie scale contract extension with the Spurs.
+On October 31, 2023, Johnson put up 27 points alongside a key steal on Kevin Durant that led to a game-winner in a 115–114 win over the Phoenix Suns.
+As of the 2025–26 season, Johnson is the longest tenured player on the Spurs.
+
+
+## National team career
+Johnson trained with the USA Men's Junior National Team in 2017 and 2018. In 2021, he was named to the USA Select team on July 1, then added to the men's national team on July 10, training with the 2020 U.S. Olympic team. On July 16, 2021, Johnson and center JaVale McGee were named to the Olympic roster in place of the injured Kevin Love and Bradley Beal, who was kept from traveling to Tokyo for health and safety protocols. Johnson played in four of six games, averaging 5.5 minutes.
+
+
+## Personal life
+Johnson majored in undeclared/exploratory studies in agriculture during his college time. He enjoys fishing, hunting, and the outdoors. Since 2021, Johnson has lived in a ranch home outside of San Antonio in the Texas Hill Country; an animal lover, he has numerous goats, chickens, dogs, miniature cows, and horses. He maintains a collection of cowboy hats and boots.
+Johnson's brother Kaleb also played college basketball, for Georgetown University during 2015–2019, and was drafted 34th overall by the Austin Spurs in the January 2021 NBA G League draft. Kaleb plays for the Valley Suns following a trade the Austin Spurs made.
+
+
+## Career statistics
+
+
+## NBA
+
+
+## Regular season
+
+
+## College
+
+
+
+
+
+## Career statistics from NBA.com  · Basketball Reference
+Kentucky Wildcats bio
+Keldon Johnson at USA Basketball
+Keldon Johnson at Team USA (archive April 8, 2023)
+Keldon Johnson at Olympedia 
+Keldon Johnson at Olympics.com

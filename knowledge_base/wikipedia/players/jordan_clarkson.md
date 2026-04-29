@@ -1,0 +1,118 @@
+# Jordan Clarkson
+
+Jordan Taylor Clarkson (born June 7, 1992) is an American and Filipino professional basketball player for the New York Knicks of the National Basketball Association (NBA). He played college basketball for two seasons with the Tulsa Golden Hurricane before transferring to Missouri, where he earned second-team all-conference honors in the Southeastern Conference (SEC). After forgoing his senior year in college to enter the 2014 NBA draft, Clarkson was selected by the Washington Wizards in the second round with the 46th overall pick and was immediately traded to the Los Angeles Lakers. He was named to the NBA All-Rookie First Team. Clarkson was traded to the Cavaliers in 2018. In December 2019 he was traded to the Jazz. On March 24, 2015, Clarkson along with Jeremy Lin, became the first Asian-American starting back court in NBA history. In 2021, Clarkson was named the NBA Sixth Man of the Year.
+He also holds Filipino citizenship and has represented the Philippines men's national basketball team.
+
+
+## Early life
+Clarkson was born in Tampa, Florida, to African-American Mike Clarkson and Filipina American Annette Tullao Davis. Davis' mother, Marcelina Tullao Kingsolver, was from Bacolor, Pampanga, Philippines. Both his parents served in the United States Air Force and divorced when Clarkson was young, with Clarkson's father later remarrying Janie Clarkson. He moved to San Antonio, Texas around the age of six.
+He attended Karen Wagner High School in San Antonio. As a sophomore, he averaged 10 points per game while earning honorable mention all-district accolades. As a junior, he averaged 20 points, six rebounds and four assists per game, leading his team to a 32–8 record and the Class 5A state semi-finals.
+On November 11, 2009, Clarkson signed a National Letter of Intent to play college basketball at the University of Tulsa.
+As a senior, he averaged 18.9 points, 6.1 rebounds, 3.4 assists, and 2.1 steals, leading his team to a 38–2 record and a semi-final loss in the state championship. He was also named San Antonio High School Player of the Year.
+
+
+## College career
+
+
+## Tulsa
+In his freshman season at Tulsa, Clarkson was named to the 2011 Conference USA All-Freshman team after being named the Conference USA Freshman of the Week four times in 2010–11. In 27 games (nine starts), he averaged 11.5 points, 2.1 rebounds, and 1.9 assists in 24.9 minutes per game.
+In his sophomore season, he was named to the All-Conference USA first team and the NABC All-District 11 team. In 31 games (all starts), he averaged 16.5 points, 3.9 rebounds and 2.5 assists in 33.9 minutes per game.
+
+
+## Missouri
+
+In May 2012, Clarkson transferred to Missouri and subsequently sat out the 2012–13 season due to NCAA transfer rules.
+In his redshirted junior season, he was named to the 2014 All-SEC second team. He was also named to the Wooden Award Midseason Top 25 list in January 2014 and won three Southeastern Conference Player of the Week honors. In 35 games (all starts), he averaged 17.5 points, 3.8 rebounds, 3.4 assists and 1.1 steals in 35.1 minutes per game.
+On March 31, 2014, Clarkson declared for the NBA draft, foregoing his final year of college eligibility.
+
+
+## Professional career
+
+
+## Los Angeles Lakers (2014–2018)
+
+On June 26, 2014, Clarkson was selected with the 46th overall pick in the 2014 NBA draft by the Washington Wizards. He was later traded to the Los Angeles Lakers on draft night for cash considerations, and joined the team for the 2014 NBA Summer League. On August 25, 2014, he signed with the Lakers. During his rookie season, he received multiple assignments to the Los Angeles D-Fenders of the NBA Development League, and did not play for the Lakers for most of the first half of the season. However, he ended up starting 38 games for the Lakers, primarily at point guard, and averaged 15.8 points, 5.0 assists, and 4.2 rebounds as a starter. On March 24, 2015, he had a season-best game with 30 points and 7 assists in a loss to the Oklahoma City Thunder. Starting alongside Jeremy Lin, the pair became the first Asian-American starting backcourt in league history. On March 30 and April 1, Clarkson recorded back-to-back double-doubles. For the season, he was named to the NBA All-Rookie First Team. In the prior 30 years, there had been only four other second-round picks that were named to the first team. Clarkson after joining the Lakers garnered a huge following in the Philippines owing to his Filipino heritage and the existing fanbase of the NBA team in the country.
+On November 3, 2015, Clarkson scored a career-high-tying 30 points in a 120–109 loss to the Denver Nuggets. On February 12, 2016, Clarkson played for Team USA in the Rising Stars Challenge, where he recorded 25 points, 5 rebounds, 5 assists and 4 steals in a win over Team World.
+On July 7, 2016, Clarkson re-signed with the Lakers on a four-year, $50 million contract. In the Lakers' season opener on October 26, 2016, Clarkson scored a team-high 25 points off the bench in a 120–114 win over the Houston Rockets. On November 15, 2016, he recorded a career-high five steals in a 125–118 win over the Brooklyn Nets. On March 12, 2017, he tied his career high with 30 points off the bench in a 118–116 loss to the Philadelphia 76ers. On March 24, 2017, he had career highs of 35 points and eight 3-pointers in a 130–119 overtime win over the Minnesota Timberwolves.
+On November 13, 2017, Clarkson scored a season-high 25 points in 26 minutes off the bench in a 100–93 win over the Phoenix Suns. On January 19, 2018, he set a new season high with 33 points in a 99–86 win over the Indiana Pacers.
+
+
+Cleveland Cavaliers (2018–2019)
+
+On February 8, 2018, Clarkson was traded, along with Larry Nance Jr., to the Cleveland Cavaliers in exchange for Isaiah Thomas, Channing Frye and a 2018 first-round draft pick. In his debut for the Cavaliers three days later, Clarkson scored 17 points in a 121–99 win over the Boston Celtics. The Cavaliers reached the 2018 NBA Finals, where they were defeated in four games by the Golden State Warriors.
+On December 12, 2018, Clarkson scored 28 points in a 113–106 win over the New York Knicks. On February 13, 2019, Clarkson scored a career-high 42 points in a 148–139 triple-overtime loss to the Brooklyn Nets.
+
+
+## Utah Jazz (2019–2025)
+On December 24, 2019, Clarkson was traded to the Utah Jazz in exchange for Dante Exum and two future second-round draft picks. On January 30, 2020, Clarkson scored a season-high 37 points in a 100–106 loss to the Denver Nuggets.
+On November 21, 2020, Clarkson re-signed with the Jazz on a four-year, $52 million contract. On February 15, 2021, Clarkson scored a season-high 40 points in a 134–123 win over the Philadelphia 76ers. He ended the 2020–21 season averaging a career-high 18.4 points per game and led the NBA with 203 three-pointers off the bench. He won the NBA Sixth Man of the Year Award over Jazz teammate Joe Ingles, who was the runner-up. Clarkson was the first Utah player to win the award.
+On October 28, 2021, Clarkson and Jalen Green became the first two players of Filipino descent to play in the same NBA game in time for the Houston Rockets' Filipino Heritage Night celebration. On March 12, 2022, Clarkson scored a career-high 45 points on 15-for-21 shooting from the field in a 134–125 win against the Sacramento Kings.
+On December 15, 2022, Clarkson led the Jazz to a 132–129 overtime victory over the New Orleans Pelicans with a game-leading 39 points and 8 rebounds. On January 14, 2023, Clarkson scored 38 points and grabbed 9 rebounds during a 118–117 loss to the Philadelphia 76ers.
+On July 7, 2023, Clarkson signed a contract extension with the Jazz. On January 1, 2024, Clarkson recorded his first career triple-double with 20 points, 10 rebounds, and 11 assists in a 127–90 win over the Dallas Mavericks, the first in the regular season for any Utah Jazz player since Carlos Boozer in 2008, ending the longest-ever regular-season triple-double drought for any NBA team.
+On December 19, 2024, Clarkson was ejected after an altercation with Paul Reed, almost starting an altercation with Ron Holland, and while being ejected, he threw his headband into the crowds. On December 21, he was fined $35,000 for the altercations and headband throwing. In 37 appearances (9 starts) for the Jazz during the 2024–25 NBA season, Clarkson averaged 16.2 points, 3.2 rebounds, and 3.7 assists. On March 27, 2025, Clarkson was ruled out for the remainder of the season after undergoing a medical procedure to address plantar fasciitis in his left foot.
+On June 30, 2025, Clarkson reached a buyout agreement with the Jazz.
+
+
+## New York Knicks (2025–present)
+On July 7, 2025, Clarkson signed with the New York Knicks.
+
+
+## National team career
+
+In 2011, talks were initiated for Clarkson to play for the Philippine national team, also known as Gilas. However, Clarkson did not meet the FIBA eligibility requirements to be considered a Filipino citizen as he acquired his Philippine passport after age 16. He is eligible, though, to play as a "naturalized" player.
+Clarkson visited the Philippines in August 2015 on the invitation of Manny Pangilinan, the then-president of Samahang Basketbol ng Pilipinas (SBP), the national basketball federation of the Philippines, to observe the training of Gilas, aside from fulfilling his commitments as an endorser of Smart Communications, which was also presided by Pangilinan. In an interview, SBP Executive Director Sonny Barrios confirmed that Clarkson has carried a Philippine passport since he was 12, and therefore did not need to undergo the naturalization process to represent the Philippines in international competitions. Clarkson did not make the final cut due to scheduling conflicts with the Los Angeles Lakers. The Lakers agreed to let Clarkson play, but the NBA collective bargaining agreement requires that national team play should not interfere with the Lakers' team requirements, which expected players to report on September 28; however, the tournament ran until October 3. Clarkson expressed his disappointment that he could not represent the Philippines in the 2015 FIBA Asia Championship. Clarkson was initially included in the 17-man pool for the Philippines lineup for the final Olympic Qualifying Tournament for the 2016 Rio Olympics. However, due to time constraints and a complicated eligibility process, the team instead opted for Andray Blatche as its naturalized player due to lack of size.
+In August 2018, the NBA cleared Clarkson to play for the Philippine national team in the 2018 Asian Games that was held from August 18 to September 2, 2018, with a one-time exception, allowing Clarkson to play for the Philippines for the first time. His first game with the national team was against China where Clarkson led all scorers with 28 points but fell short of the match 82–80. In his second game with the national team, Clarkson once again led his team with a 25-point performance but could not overcome Korea. The team bowed out of a podium finish. Clarkson managed to get his first win with the national team, defeating Japan 113–80, in which he recorded 22 points, six rebounds and nine assists. Clarkson ended the tournament with a win, beating Syria 109–55 with a 29-point performance earning the Philippines a fifth-place finish, its best in 16 years.
+In August 2022, SBP announced that they have accepted Clarkson as a naturalized player for the fourth window of the 2023 World Cup Asian qualifiers and future FIBA tournaments. On August 25, 2022, Clarkson made his FIBA debut and scored 27 points in a loss against Lebanon in the FIBA World Cup Asian qualifiers.
+Clarkson was included in the 21-man pool for the 2023 FIBA World Cup, where he was eventually included in the final 12-man lineup as the team's naturalized player. In conclusion of the 2023 FIBA World Cup, he played 5 games for the Philippines averaging 26.0 points, 4.6 rebounds, 5.2 assists, 1.2 steals, 0.2 blocks in 36 minutes of playing.
+
+
+## Career statistics
+
+
+## NBA
+
+
+## Regular season
+
+
+## Playoffs
+
+
+## College
+
+
+## Awards and honors
+
+
+## High school
+First team All-District 27-5A (2009–2010)
+First team All-Region (2009–2010)
+San Antonio Express News Super Team (2009–2010)
+First team All-State by the Texas Association of Basketball Coaches (2009)
+WOAI-TV Player of the Year for the San Antonio area (2009)
+San Antonio High School Player of the Year (2010)
+McDonald's All-American finalist (2010)
+Faith Seven Game MVP (2010)
+
+
+## College
+C-USA All-Freshman Team (2011)
+First-team All-C-USA (2012)
+Second-team All-SEC (2014)
+
+
+## NBA
+NBA All-Rookie First Team (2015)
+Rookie of the Month (March 2015)
+Rising Stars Challenge participant (2016)
+NBA Sixth Man of the Year Award (2021)
+NBA All-Star Weekend Skills Challenge Winner (2023)
+NBA Cup Champion (2025)
+
+
+## Personal life
+Clarkson has dual citizenship with the Philippines and the United States. His Filipino citizenship is by virtue of ancestral descent. As of 2022, he is in a relationship with American singer-songwriter Maggie Lindemann. He has a daughter and lives in San Antonio, Texas.
+
+
+
+

@@ -1,0 +1,78 @@
+# Jaren Jackson Jr.
+
+Jaren Walter Jackson Jr. ( JAIR-ən; born September 15, 1999), nicknamed "the Block Panther",  and also known by his initials JJJ, is an American professional basketball player for the Utah Jazz of the National Basketball Association (NBA).  He played college basketball for the Michigan State Spartans. Jackson was selected by the Memphis Grizzlies with the fourth overall pick of the 2018 NBA draft. In 2023, he was named to his first NBA All-Star team, later winning Defensive Player of the Year that same season. Jackson is renowned for his defensive dominance, particularly his exceptional rim protection; he led the league in blocks per game for two consecutive seasons in 2021–22 and 2022–23.
+
+
+## Early life
+Jaren Walter Jackson Jr. was born on September 15, 1999, in Plainfield, New Jersey.
+Jaren started his high school career with Park Tudor School in Indianapolis. He played varsity for three years, where he averaged 10 points, 6 rebounds and 3 blocks per game. Jackson won two IHSAA state basketball championships while at Park Tudor. He  was teammates with future Xavier University standout and future professional basketball player Trevon Bluiett. He then transferred to La Lumiere School in La Porte, Indiana for his senior year, where he met Jordan Poole and started for their varsity squad.
+
+
+## Recruiting
+Jackson was appraised for being one of the top players in the 2017 graduating class. Scout.com ranked Jackson the fifth-best player nationally, first at his position and second overall in the Midwest region. 247Sports ranked him 7th nationally, being 4th in his position. ESPN ranked him 8th in the ESPN 100, being 2nd in his position and 2nd regionally. 
+
+Jackson was recruited by a number of notable programs, including Michigan State, Notre Dame, Butler, Indiana, Purdue, Maryland, and several more. He was invited to partake in the McDonald's All-American Game played on March 29, 2017.
+
+
+## College career
+On September 15, 2016, Jaren Jackson Jr. announced his intentions to play for Tom Izzo at Michigan State. He signed the letter of intent on November 9, 2016. Jackson made his collegiate debut on November 10, 2017, recording 13 points and a season-high 13 rebounds in a blowout 98–66 win over North Florida. Four days later, he recorded a then-season-high 19 points in an 88–81 loss to #1-ranked Duke. On December 5, Jackson put up 11 points and a career-high 8 blocks in a 62–52 win over Rutgers. Four days later, he recorded 17 points and another career-high 13 rebounds in a blowout 88–63 win over Southern Utah. On January 22, 2018, Jackson recorded a then-season-high 21 points to go with 11 rebounds and 6 blocks in an 87–74 win over Illinois. On February 13, he put up a career-high 27 points in a blowout 87–57 win over Minnesota. At the end of the regular season for Michigan State, he was named both the Big Ten's Defensive Player of the Year, Freshman of the Year,  Big Ten's All-Freshman Team, and the All-Big Ten's Third Team. On April 2, Jackson declared his entry into the 2018 NBA draft, where he was considered a potential top-tier lottery selection.
+
+
+## Professional career
+
+
+## Memphis Grizzlies (2018–2026)
+
+
+## 2018–2021: Early years
+On June 21, 2018, Jackson was selected with the fourth overall pick by the Memphis Grizzlies in the 2018 NBA draft. On July 1, 2018, he signed a multi-year, rookie-scale contract with the Grizzlies. On March 29, 2019, Jackson was shut down for the remainder of the season due to a deep bruise to his right thigh.
+On December 13, 2019, Jackson scored a career-high 43 points, including 9 three-pointers (which tied a franchise record set by Mike Miller in 2007) in a 127–114 loss to the Milwaukee Bucks.  On January 30, 2020, Jackson was suspended for one game without pay for leaving the bench during an altercation between the Grizzlies and the New York Knicks. On January 28, Jackson recorded a career-high 7 blocks in a 104–96 win over the Denver Nuggets. On August 4, 2020, Jackson suffered a torn meniscus in his left knee in a 99–109 loss to the New Orleans Pelicans hosted in the Bubble and was expected to miss the remainder of the 2019–20 season.
+On December 16, 2020, the Grizzlies announced that they had exercised the team option on Jackson. On April 21, 2021, Jackson made his return, putting up 15 points, 8 rebounds, and 4 blocks in a loss to the Los Angeles Clippers. Two days later, Jackson scored a season-high 23 points in a 130–128 win over the Portland Trail Blazers. After a series of play-in tournament wins, the Grizzlies qualified for the playoffs for the first time since 2017. They faced the top-seeded Utah Jazz during their first round series. On May 31, Jackson scored a postseason career-high 21 points in a 120–113 Game 4 loss. The Grizzlies would eventually lose the series in five games.
+
+
+2021–2023: Defensive Player of the Year and All-Star selection
+On October 18, 2021, Jackson signed a four-year, $105 million extension with the Grizzlies. On January 9, 2022, Jackson scored 21 points and tied a career-high with 12 rebounds in a 127–119 win over the Los Angeles Lakers. On April 16, during Game 1 of the first round of the playoffs, Jackson logged 12 points and seven blocks in a 130–117 loss to the Minnesota Timberwolves. His seven blocks set a Grizzlies franchise record for most blocks in a playoff game, surpassing Marc Gasol's 6 on May 13, 2013. The Grizzlies eventually defeated the Timberwolves in six games, with Jackson recording 18 points, 14 rebounds and two blocks in a 114–106 Game 6 win. During the Grizzlies' second-round series, they faced the Golden State Warriors. On May 1, Jackson scored a playoff career-high 33 points, alongside ten rebounds, in a 117–116 Game 1 loss. The Grizzlies wound up losing the series in six games to the Warriors, who went on to win the NBA Finals. Jackson finished the 2021–22 season leading the NBA in blocks per game at 2.3 and finished with the most blocks that season with 177 blocks, 40 more than the second-place finisher. For his efforts, he was named to the NBA All-Defensive First Team and finished fifth in Defensive Player of the Year voting.
+On June 30, 2022, Jackson underwent surgery to repair a stress fracture in his right foot and was ruled out for four-to-six months. After missing the first 14 games of the 2022–23 season, he made his season debut on November 15, recording seven points, six rebounds and five blocks in a 113–102 loss to the New Orleans Pelicans. On December 12, Jackson recorded a career-high eight blocks, alongside 15 points, seven rebounds and two assists, in a 128–103 win over the Atlanta Hawks. On January 5, 2023, he scored a season-high 31 points, alongside ten rebounds and three blocks, in a 123–115 win over the Orlando Magic. On February 2, Jackson was selected to his first NBA All-Star Game as a reserve forward for the Western Conference. On April 5, Jackson scored a season-high 40 points, along with nine rebounds, three assists and four blocks in a 138–131 overtime loss against the New Orleans Pelicans. On 9 April, Jackson finished the regular season as the league leader in blocks for the second year in a row, averaging a career-high 3 blocks per game. On April 16, in the opening game of the playoffs Jackson scored a game-high 31 points on 13-of-21 shooting from the field in a 128–112 loss against the Los Angeles Lakers. Memphis lost the series in six games. During the playoffs, Jackson was named for the first time the Defensive Player of the Year, and was named for the second consecutive time to the NBA All-Defensive First team.
+
+
+2023–2026: Second All-Star selection
+Jackson Jr. started all 66 of his appearances for the Grizzlies during the 2023–24 NBA season, averaging 22.5 points, 5.5 rebounds, and 2.3 assists.
+On January 30, 2025, Jackson Jr. was named as reserve for the 2025 NBA All-Star Game, his second selection. He started all 77 of his appearances for Memphis in the 2024–25 NBA season, posting averages of 22.2 points, 5.6 rebounds, and 2.0 assists.
+On June 30, 2025, Jackson Jr. agreed to a five‑year, $240 million contract extension with the Grizzlies. On July 2, it was announced that Jackson would miss 10-to-12 weeks after undergoing surgery to repair a turf toe injury. He went on to make 45 starts for the Grizzlies during the 2025–26 NBA season, averaging 19.8 points, 5.8 rebounds, and 1.9 assists.
+
+
+## Utah Jazz (2026–present)
+On February 3, 2026, Jackson Jr., John Konchar, Jock Landale, and Vince Williams Jr. were traded to the Utah Jazz in exchange for Kyle Anderson, Walter Clayton Jr., Taylor Hendricks, Georges Niang, and three first-round draft picks. On February 7, Jackson Jr. made his debut for the Jazz in a 120–117 loss to the Orlando Magic, recording 22 points, five rebounds, three assists, and two steals. He made three starts for Utah, averaging 22.3 points, 4.3 rebounds, and 2.7 assists. On February 12, it was announced that Jackson would require season-ending surgery to remove a localized pigmented villonodular synovitis growth in his left knee.
+
+
+## National team career
+Jackson was a member of the United States national team that competed in the 2023 FIBA Basketball World Cup. They finished fourth in that tournament.
+
+
+## Career statistics
+
+
+## NBA
+
+
+## Regular season
+
+
+## Playoffs
+
+
+## College
+
+
+## Personal life
+He is the son of former professional, and current collegiate basketball coach and former NBA player Jaren Jackson and WNBPA executive director Terri Jackson.
+
+
+
+
+
+
+
+## Career statistics from NBA.com · Basketball Reference
+Michigan State Spartans bio
+USA Basketball bio

@@ -1,0 +1,70 @@
+# Collin Sexton
+
+Collin Darnell Sexton (born January 4, 1999) is an American professional basketball player for the Chicago Bulls of the National Basketball Association (NBA). He played college basketball for the Alabama Crimson Tide. In January 2017, Sexton was selected as a McDonald's All-American. Nicknamed the "Young Bull", he was selected with the 8th overall pick in the 2018 NBA draft by the Cleveland Cavaliers. After spending his first 4 seasons with the team, he was traded to the Utah Jazz via sign-and-trade in the 2022 offseason. Sexton has also played for the Charlotte Hornets.
+
+
+## Early life
+Collin is the son of Darnell and Gia Sexton. He has an older brother, Jordan, and one older sister, Giuana. He started playing basketball when he was three years old.
+Collin first attended Hillgrove High School in Powder Springs, Georgia before transferring to Pebblebrook High School in Mableton, Georgia prior to his junior year and helped the Falcons to a 2016 Georgia Region 3-6A title and the 2016 Georgia Class 6A state championship game; while averaging 23 points, 7.4 rebounds and 2.9 assists.
+Sexton was rated as a five-star recruit and considered one of the best players in the 2017 recruiting class by Scout.com, Rivals.com and ESPN. Sexton was ranked as the No.7 overall recruit and No.2 point guard in the 2017 high school class. On November 10, 2016, Sexton committed to the Alabama Crimson Tide, on the same day he signed his letter of intent (LOI).
+
+
+## College career
+
+Collin Sexton attended the University of Alabama, playing for coach Avery Johnson. On November 25, 2017, he scored 40 points while playing shorthanded (3-on-5) during most of the second half in a loss to the University of Minnesota. In the opening game of the SEC tournament, Collin Sexton scored 27 points against Texas A&M including the game winning buzzer-beater, then 31 points in a quarterfinal win over #1 seed Auburn, and 21 points against Kentucky in a loss during the semifinals. Collin Sexton was named to the All-tournament team after averaging 26.3 ppg, 3 apg, and 5 rpg in 3 games.
+Following Alabama's loss in the 2018 NCAA men's basketball tournament, Sexton announced his intention to forgo his final three seasons of collegiate eligibility and declare for the 2018 NBA draft, where he was expected to be a first round selection.
+
+
+## FBI investigation
+
+Before Alabama's exhibition game on November 6, 2017, the school announced that Sexton would not play due to eligibility concerns. These concerns stemmed from Alabama's director of basketball operations Kobie Baker's resignation, following an internal investigation after the announcement of an FBI investigation into college basketball corruption. Sexton would, however, make his debut with Alabama on November 14 in a win against Lipscomb University. Later on in February 2018, Sexton's name would pop up as one of the names implicated with the NCAA scandal of receiving payments or dinners. His name was once again cleared.
+
+
+## Professional career
+
+
+Cleveland Cavaliers (2018–2022)
+On June 21, 2018, Sexton was selected with the eighth overall pick by the Cleveland Cavaliers in the 2018 NBA draft. The Cavaliers had acquired the Nets' pick from the Celtics via the Kyrie Irving trade the previous summer, who had acquired it initially in 2014 as part of the blockbuster trade of Paul Pierce and Kevin Garnett, among others. He was the highest-selected player from Alabama since Antonio McDyess in 1995. On July 6, 2018, Sexton made his NBA Summer League debut. He recorded 15 points to go along with 7 rebounds. On October 17, 2018, Sexton made his NBA debut, coming off the bench for the Cleveland Cavaliers with nine points and three rebounds in a 104–116 loss to the Toronto Raptors. On November 24, 2018, Sexton scored a season-high 29 points against the Houston Rockets in a 117–108 victory. On December 9, 2018, he again scored 29 points against the Washington Wizards in a 116–101 victory. On March 8, 2019, Sexton passed Kyrie Irving for 3 pointers made as a Cavs rookie with 76 against the Miami Heat. He also eclipsed 1,000 career points. On March 11, 2019, Sexton had 28 points against the Toronto Raptors in a 126–101 victory, to go along with 5 assists and 4 rebounds. In the week of March 8, 2019, Sexton had the best week of his rookie campaign, averaging 26.0 points, 3.8 assists, and 2.5 rebounds. During a stretch from March 8 to 22, he became the first rookie to score 23+ points in seven consecutive games since Tim Duncan in 1998, as well the only rookie in franchise history to successively score at least 23 points. Additionally, he is the only rookie in NBA history to have played at least 2,000 minutes while scoring over 16 points per game on over 40% 3-point accuracy and fewer than 3 turnovers. He was named to the Rising Stars Game at the 2020 NBA All-Star Weekend as a replacement for injured Miami Heat rookie Tyler Herro, where he put up 21 points, 5 rebounds and 3 assists for Team USA.
+On March 4, 2020, Sexton scored a season-high 41 points, alongside three rebounds and six assists, in a 106–112 loss to the Boston Celtics. He led the Cavaliers in points per game (20.8) during the 2019–20 season, and also joined LeBron James and Kyrie Irving as the only Cavaliers to average at least 20 points per game before turning 22 years old. Sexton scored at least 25 points in seven of his last eight games of the season, the longest such streak since James did so during his stint in Cleveland.
+
+On January 20, 2021, Sexton set a new career high of 42 points in a 147–135 double overtime win against the Brooklyn Nets. During the 2020–21 campaign, Sexton led the Cavaliers in scoring for a second straight year with a career-high 24.3 points per game, and also set a career high with 4.4 assists per game.
+Sexton and the Cavaliers failed to reach an agreement on a contract extension before the 2021–22 season started. On October 22, 2021, he scored a season-high 33 points, alongside four rebounds and two steals, in a 112–123 loss to the Charlotte Hornets. On November 7, Sexton exited a road game against the New York Knicks with a knee injury, which was later revealed to be a torn left meniscus. There was no timetable set for his return. On November 20, it was revealed that he had season-ending surgery. On June 28, 2022, the Cavaliers extended a qualifying offer to Sexton, making him a restricted free agent.
+
+
+## Utah Jazz (2022–2025)
+On September 3, 2022, Sexton was signed-and-traded, alongside Lauri Markkanen, Ochai Agbaji, three future first-round picks, and two future pick swaps, to the Utah Jazz in exchange for Donovan Mitchell. As part of the deal, Sexton agreed to a four-year, $72 million contract with the Jazz. Sexton made his debut for the Jazz on October 19, recording 20 points, 5 rebounds, and 2 assists while coming off the bench in a 123–102 win over the Denver Nuggets.
+
+
+## Charlotte Hornets (2025–2026)
+On June 29, 2025, Sexton was traded to the Charlotte Hornets, alongside a 2030 second-round pick in exchange for Jusuf Nurkić. Sexton made 42 appearances (including 12 starts) for Charlotte during the 2025–26 NBA season, averaging 14.2 points, 1.9 rebounds, and 3.7 assists.
+
+
+## Chicago Bulls (2026–present)
+On February 4, 2026, Sexton, Ousmane Dieng, and three second-round draft picks were traded to the Chicago Bulls in exchange for Coby White and Mike Conley Jr.
+
+
+## National team career
+Sexton won a gold medal with the 2016 USA Men's U17 World Championship Team, at the 2016 FIBA Under-17 World Championship in Zaragoza, Spain. He was named the MVP of the tournament.
+
+
+## Personal life
+Sexton was born in Marietta, Georgia, and grew up in Mableton, Georgia with his mother and father, Gia and Darnell Sexton, and his brother, Jordan Sexton.
+
+
+## Career statistics
+
+
+## NBA
+
+
+## Regular season
+
+
+## College
+
+
+
+
+
+## Career statistics from NBA.com · Basketball Reference
+Alabama Crimson Tide bio

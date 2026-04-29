@@ -1,0 +1,91 @@
+# Tyrese Maxey
+
+Tyrese Kendrid Maxey (born November 4, 2000), is an American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA). He previously played college basketball for the Kentucky Wildcats.
+Born in Dallas, Texas, Maxey was a shooting guard for South Garland High School, helping the team to their first-ever Texas state high school basketball tournament appearance in 2018. A five-star recruit as early as his sophomore year of high school, Maxey contemplated leaving high school early to play for the Kentucky Wildcats, but ultimately stayed at South Garland, where he was a McDonald's All-American and Texas Mr. Basketball during his senior year. He then played for the Wildcats, where he would set a school record of 26 points in his collegiate debut.
+After Maxey's freshman season at Kentucky was interrupted by the COVID-19 pandemic, he elected to enter the 2020 NBA draft, where the 76ers selected him 21st overall with their first-round pick. Maxey received limited playing time during his rookie season, making his first NBA start in a game where the 76ers could only field the league's minimum number of players. However, Ben Simmons's refusal to play for the 76ers the following season gave Maxey an opportunity to become the team's starting point guard. In his fourth season, Maxey won the Most Improved Player Award and earned his first All-Star selection in 2024. Soon after the 76ers' elimination from the playoffs, Maxey earned his first NBA Sportsmanship Award.
+
+
+## Early life and high school career
+Maxey was born on November 4, 2000, in Dallas, Texas, to Denyse and Tyrone Maxey. His father had been a college basketball player for the Washington State Cougars under head coach Kelvin Sampson before turning to coaching himself. Maxey's favorite childhood basketball player was Dwyane Wade, and when he told his father that he wanted to be like Wade, Tyrone created a training regimen for his son inspired by his video analysis of NBA players Stephen Curry and Kyrie Irving. In sixth grade, Maxey won a national championship with his Amateur Athletic Association (AAU) team. He had previously broken his pinky finger during the AAU city championship in Garland, Texas, but chose to complete the game by only dribbling with his non-injured hand.
+At South Garland High School, Maxey was a shooting guard for the Colonels basketball team. During his sophomore year, he averaged 23.5 points, 5.5 rebounds, 3.6 assists, and 2.5 steals per game. The following season, Maxey averaged 22.5 points, 7 rebounds, 3.1 assists, and 2.3 steals per game, and South Garland made its first ever Texas state basketball tournament appearance. He scored 46 points in the state championship semifinals, but the team nevertheless lost to Obra D. Tompkins High School in overtime. He contemplated leaving high school early after the 2018 season in order to enter the NBA sooner, but ultimately decided to finish his four-year South Garland career in the hopes of becoming a McDonald's All-American. He finished his high school basketball career averaging 21.8 points, 6.3 rebounds, and 3.6 assists per game as a senior. In addition to graduating at the top of his class, Maxey was named First-Team All-Area, a McDonald's All-American, and was crowned Texas Mr. Basketball. South Garland reached the 2019 Texas 6A Region II tournament finals, where despite 25 points from Maxey, they lost 64–53 to Klein Forest High School.
+
+
+## Recruiting
+Maxey was considered a five-star recruit as early as his sophomore year of high school, at the end of which Rivals.com ranked him No. 14 in the country among high school basketball prospects. By his senior year, he was ranked 10th overall by Rivals.com and 247Sports, and 13th overall by ESPN. He entertained offers from a number of college basketball programs, including Michigan State, the University of California, Los Angeles, and Southern Methodist University, but made an verbal commitment to the University of Kentucky in May 2018, just before his senior year of high school. Maxey signed a National Letter of Intent with Kentucky that November.
+
+
+## College career
+
+Maxey made his college debut at Madison Square Garden for Kentucky's Champions Classic win over the Michigan State Spartans. Playing the day after his 19th birthday, Maxey came off the bench to score 26 points, a school record for a freshman debut, in the Wildcats' 69–62 victory. This outing was followed by a cold streak during which he only went 3-for-15 on three pointers across four games. The stretch was broken on November 23, when he scored 21 points, including four three-pointers, in an 81–56 rout of the Lamar Cardinals. After scoring 27 points and recording seven rebounds in a 78–70 overtime win over the Louisville Cardinals on December 28, Maxey was named the NCAA Division I National Player of the Week, the Southeastern Conference (SEC) Freshman of the Week, and the United States Basketball Writers Association Wayman Tisdale Freshman of the Week.
+On February 29, 2020, Kentucky clinched the SEC regular season championship with a 73–66 victory over the Auburn Tigers, during which Maxey scored 17 points. In clinching the regular season title, the Wildcats were meant to enter the 2020 SEC men's basketball tournament as the number one seed, but two weeks later, both the SEC Tournament and the 2020 NCAA Division I men's basketball tournament were canceled due to concerns over the emergent COVID-19 pandemic, bringing a premature end to Maxey's freshman season. Appearing in 31 games for Kentucky, including 28 starts, Maxey averaged 14 points, 4.3 rebounds, and 3.2 assists per game while leading the team with 34.5 minutes per contest. At the end of the season, he was named to both the All-SEC Second Team and the SEC All-Freshman Team. On April 6, 2020, shortly after the COVID-19 pause, Maxey declared for the 2020 NBA draft as did his teammates Nick Richards and Immanuel Quickley.
+
+
+## Professional career
+
+
+Philadelphia 76ers (2020–present)
+
+
+## 2020–21 season: Rookie season
+
+Originally anticipated to be a lottery pick, Maxey remained available late in the first round of the 2020 NBA draft. Instead, he was selected 21st overall by the Philadelphia 76ers, in one of the first decisions that Daryl Morey made as the team's president of basketball operations. Maxey signed his rookie scale contract with the team on December 3, 2020. After collecting 8 and 11 points with limited minutes during two preseason games, head coach Doc Rivers decided that Maxey would be "one of our main bench guys" going into the 2020–21 season. He made his NBA debut on December 23, the first game of the season, and recorded six points on a 3-for-6 shooting rate, two assists, and two rebounds in eleven minutes of the 76ers' game against the Washington Wizards.
+With injuries to stars Joel Embiid and Ben Simmons and a number of positive COVID-19 tests on the team, the 76ers were only able to field the league-minimum eight players for their January 9 game against the Denver Nuggets. The depleted roster allowed Maxey to make his first NBA start. Although the Nuggets won the game 115–103, Maxey had a strong performance with 39 points in 44 minutes on 18-of-33 shooting. He scored the most points of any rookie in his first career start since 1970, as well as the most points by any 76ers rookie since Allen Iverson scored 40 points against the Washington Bullets in 1997. In 61 regular season games, including eight starts, Maxey averaged eight points per game with a 46 percent shooting rate and 30 percent three-point field goal percentage in 15 minutes per game. He did not start in any postseason games during the 2021 NBA playoffs but did make eight appearances, during which he averaged six points per game on a 44 percent shooting rate. The Atlanta Hawks defeated the 76ers in a seven-game Eastern Conference semifinal series, eliminating Philadelphia from the NBA postseason.
+
+
+2021–22 season: Transition to starter
+Following the 76ers' playoff elimination, Maxey spent the 2021 offseason in the NBA Summer League to continue his development. When Ben Simmons refused to play for the 76ers at the start of the 2021–22 season, Maxey and Shake Milton platooned the starting point guard position. After averaging 16.9 points, 3.5 rebounds, and 4.6 assists in 35.6 minutes through the first 51 games of the season, Maxey was named to the 2022 NBA Rising Stars Challenge as a member of Team Worthy. At the NBA trade deadline, the 76ers acquired James Harden in a trade with the Brooklyn Nets, a movement that had an immediate positive impact for Maxey. The acquisition of point guard Harden allowed Maxey to return to his natural shooting guard position, which afforded him more shooting opportunities, and he averaged 24.5 points in his first two games after Harden's arrival. He scored 25 points in the 76ers' regular-season finale against the Detroit Pistons, finishing his sophomore season with 17.5 points per game while shooting 48.5 percent from the field, and 42.7 percent from three-point range.
+The 76ers faced the Toronto Raptors in the opening round of the 2022 NBA playoffs. Maxey had a breakout performance in the first game of the series, scoring a postseason career-high 38 points in the 131–111 Philadelphia victory. In doing so, he became the youngest Philadelphia player to score 30 or more points in a postseason game. The 76ers defeated the Raptors in six games, with Maxey averaging 21.3 points per game while shooting 51.1 percent shooting from the field and  40.5 percent from three-point range. Philadelphia went on to face the Miami Heat in the Eastern Conference semifinals. Despite a 34-point performance from Maxey in Game 2, the 76ers lost 119–103, and they ultimately lost the series in six games. Maxey finished the series as the 76ers' leading scorer, with 20.2 points per game to go with a 45.6 percent shooting and 34.4 percent three-point shooting.
+
+
+2022–23 season: Steady improvement
+On October 28, 2022, Maxey put up a career-high 44 points on 15-of-20 shooting from the field, including nine of his 12 attempts from three-point range in an 112–90 win over the Toronto Raptors. He also joined Hal Greer and Allen Iverson as the only Sixers players to score at least 40 points in a game before the age of 23. He also tied Danny Green and Dana Barros for the most three-pointers made in a game in Sixers history with nine.
+Maxey finished his 3rd season with the 76ers averaging 20.3 points per game while shooting 43.4% from the three-point range.
+
+
+2023–24 season: First All-Star selection and Most Improved Player
+On November 12, 2023, Maxey put up a then career-high 50 points along with seven rebounds, five assists, and three blocks in a 137–126 win over the Indiana Pacers. He became the sixth Sixer ever with 50+ points, 5+ rebounds and 5+ assists (Allen Iverson, Joel Embiid, Wilt Chamberlain, Hal Greer and Dana Barros). Maxey also joined Iverson as the only Sixers with 50+ points at 23 or younger. He also dedicated his career-high to his teammate Kelly Oubre Jr., who was struck by a car by a hit and run driver and went to the hospital the previous day. On December 29, Maxey scored 42 points in a 131–127 win over the Houston Rockets.
+On February 1, 2024, Maxey was named to his first career All-Star Game as an Eastern Conference reserve. On the same day, Maxey scored a then career-high 51 points in a 127–124 win over the Utah Jazz. On April 4, Maxey fell one rebound short of a first career triple double, putting up 37 points, 11 assists in an important win at the Miami Heat. On April 7, Maxey scored a career-high 52 points in a 133–126 double–overtime win over the San Antonio Spurs. Maxey finished his 4th season with the 76ers averaging 25.9 points per game and 6.2 assists per game. Maxey finished the season as one of three players to put up 3 or more 50 point games during the season, a list including teammate Joel Embiid and Phoenix Suns shooting guard Devin Booker.
+On April 23, 2024, Maxey was named the 2023–24 NBA Most Improved Player, winning over Coby White and Alperen Şengün. On April 30, Maxey put up a playoff career-high 46 points in the Sixers' 112–106 victory in Game 5 of the first round of the playoffs against the New York Knicks. He scored 7 straight points in the last 25 seconds of regulation to tie the game after being down 96–90, including a 34-foot, game-tying shot with 8.1 seconds left. The 76ers eventually lost the series in 6 games. Maxey was seen to have saved the Philadelphia 76ers season that year after Joel Embiid went out due to injury for 2–3 months.
+On May 16, Maxey was named the winner of the 2023–24 NBA Sportsmanship Award.  On July 7, Maxey signed a $204 million 5-year max contract with the 76ers in the 2024 offseason. 
+Tyrese Maxey became the first player in NBA history to receive the Most Improved Player, NBA Sportsmanship Award, and become an All Star, all in the same season.
+
+
+2024–2025 season: Season ended with injury
+On November 21, 2024, it was reported that in an hour-long meeting involving players and coaches, Maxey accused Joel Embiid of regularly being late to team activities. He made 54 appearances for 76ers during the 2024–25 NBA season, averaging career-highs of 26.3 points and 1.8 steals, along with 3.3 rebounds and 6.1 assists. On April 9, 2025, Maxey was ruled out for the remainder of the season due to a lingering right finger sprain.
+
+
+2025–2026 season: Franchise player
+On October 22, 2025, Tyrese Maxey scored 40 points and hit 7 three-pointers in the 76ers' season-opening 117–116 victory over the Boston Celtics. Five days later, on October 27, Maxey dropped 43 points and dished 8 assists in a 136–124 win over the Orlando Magic. On November 3, Maxey was named the NBA Eastern Conference Player of the Week for Week 2 (October 27–November 2) after averaging 33.5 points, 5.3 rebounds, 9.8 assists, and 1.25 steals per game. His performance helped lead the 76ers to a 3–1 record during the week. On November 20, Maxey scored a career-high 54 points along with five rebounds, nine assists, three steals, and three blocks in a 123–114 overtime victory over the Milwaukee Bucks. He became the second player in 76ers franchise history to record at least 50 points and nine assists in a game after Wilt Chamberlain.
+On January 19, 2026, Maxey earned his second NBA All-Star selection and was named a starter for the first time, receiving the second most votes in the East.
+Shorty after Maxey was announced to be releasing a new signature shoe with New Balance. On February 26, in a game against the Miami Heat, Maxey scored his 886th career 3-point shot, surpassing Allen Iverson for the most three-pointers made in 76ers franchise history.
+
+
+## National team career
+During his high school career, Maxey was named to the United States men's national under-19 basketball team for the 2018 FIBA Under-18 Americas Championship in Canada. He averaged 13 points, 3.5 rebounds, 3 assists, and 3 steals in roughly 24 minutes per game during the preliminary round-robin tournament but injured his ankle in a game against Puerto Rico and was considered unlikely to return for the remainder of the tournament. After missing the quarter- and semifinals, Maxey returned for the gold medal match against Canada, scoring two points in 12 minutes of play. The United States won the game 113–74 to take the gold medal.
+
+
+## Career statistics
+
+
+## NBA
+
+
+## Regular season
+
+
+## Playoffs
+
+
+## College
+
+
+## Personal life
+
+Maxey is one of four children; he has three sisters. During the 2017–18 college basketball season, their father Tyrone was the director of player development for Southern Methodist University, one of the schools that attempted to recruit his son. During the NBA season, he lives in Voorhees Township, New Jersey. His Voorhees home caught fire on Christmas Eve in 2021, while his family was visiting for the holiday, but nobody was injured, and the 76ers provided Maxey with housing accommodations and other resources for him and his family.
+Maxey is childhood friends with fellow NBA player R. J. Hampton. Although they played basketball in the same geographic region since first grade, they were never teammates, only opponents. He is also one of the "Baggage Claim Boys", a loose group of star high school basketball players from the Dallas–Fort Worth metroplex who became friends during their college recruiting season. The group also includes Timothy Leach, Isaac Likekele and Drew Timme.
+Outside of basketball, Maxey is a devoted fan of Marvel Comics and the Marvel Cinematic Universe. His favorite Marvel Cinematic Universe films include Spider-Man: Homecoming and The Avengers, and he has previously compared himself to the character Spider-Man. He also runs a charitable foundation, the Tyrese Maxey Foundation, which has partnered with Youth Services, Inc., to help prevent truancy in Philadelphia-area schools.
+
+
+
+
+

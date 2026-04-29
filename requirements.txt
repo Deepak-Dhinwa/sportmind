@@ -1,0 +1,35 @@
+# ── Data ingestion ──────────────────────────────────────────────────────────
+nba_api>=1.4.1
+pandas>=2.0.0
+requests>=2.31.0
+tqdm>=4.66.0
+
+# ── Neo4j ────────────────────────────────────────────────────────────────────
+neo4j>=5.15.0
+
+# ── Vector store (Weaviate v4 client) ────────────────────────────────────────
+weaviate-client>=4.5.0
+
+# ── Embeddings + cross-encoder reranking ─────────────────────────────────────
+sentence-transformers>=2.7.0
+
+# ── ML ───────────────────────────────────────────────────────────────────────
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+numpy>=1.26.0
+
+# ── RAG + LLM ────────────────────────────────────────────────────────────────
+llama-index-core>=0.10.0
+llama-index-llms-groq>=0.1.0
+llama-index-llms-google-genai>=0.1.0
+
+# ── Backend ──────────────────────────────────────────────────────────────────
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.9
+websockets>=12.0
+httpx>=0.27.0
+
+# ── Utilities ────────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0
+loguru>=0.7.0

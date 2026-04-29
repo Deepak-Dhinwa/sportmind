@@ -1,0 +1,97 @@
+# Nick Nurse
+
+Nicholas David Nurse (born July 24, 1967) is an American professional basketball coach and former player who is the head coach for the Philadelphia 76ers of the National Basketball Association (NBA). He previously served as head coach for the Toronto Raptors, whom he led to an NBA championship in 2019 and with whom he was named the NBA Coach of the Year in 2020.
+Nurse played college basketball for the Northern Iowa Panthers. He played professional basketball with the Derby Rams in the British Basketball League.
+
+
+## Early life
+Nicholas David Nurse was born on July 24, 1967, in Carroll, Iowa. Nurse attended Kuemper Catholic School System, where he excelled in basketball.
+
+
+## College career
+Nurse played at the University of Northern Iowa from 1985 to 1989, appearing in 111 games. He is the school's all-time three-point percentage leader at .468 (170 of 363). While playing at University of Northern Iowa, Nurse was a teammate of current Division I college coach Greg McDermott. During their successful 1989–90 season, Nurse was the sole student assistant coach for Northern Iowa in his final year with the team.
+Nurse graduated from Northern Iowa in May 1990 with a B.A. in accounting.
+
+
+## Professional career
+
+
+## Derby Rams (1990–1991)
+Nurse became a player-coach for the Derby Rams in the British Basketball League during the 1990–91 season; following the season, Nurse never played professionally again, opting to pursue a full-time coaching career.
+
+
+## Coaching career
+
+
+## Northern Iowa (1989–1990)
+During their successful 1989–90 season, Nurse was the sole student assistant coach for Northern Iowa in his final year with the team.
+
+
+## Grand View (1991–1993)
+In 1991, Nurse got his first full-time head coaching job at Grand View University at age 23. At the time, he was the youngest college basketball head coach in the country. Nurse coached at Grand View for two seasons.
+
+
+## South Dakota (1993–1995)
+Nurse was an assistant coaching role at the University of South Dakota for two seasons.
+
+
+## Europe (1995–2007)
+Nurse later spent 11 seasons coaching in Europe, mostly in the British Basketball League (BBL). During that time, he won two BBL championships as a head coach, one with the Birmingham Bullets in 1996 and one with the Manchester Giants in 2000, while also helping London Towers in the Euroleague. Nurse also won the BBL Coach of the Year Award in the 1999–2000 and 2003–04 seasons. He also coached for the Telindus Oostende of the Ethias League in 1998, as well as became an assistant coach for the Oklahoma Storm of the United States Basketball League in both 2001 and 2005.
+
+
+## D-League
+In 2007, Nurse accepted the head coaching job for the Iowa Energy, who were preparing for their first season in the NBA D-League (now called the NBA G League). The Energy won division titles under Nurse in the 2008–09 and 2009–10 seasons.
+
+
+## Iowa State University
+After three seasons with the Energy, Nurse agreed to join the coaching staff of the Iowa State Cyclones as an associate head coach in April 2010. Four days after Nurse's hiring was announced on April 22, Greg McDermott left to become the head coach at Creighton. Nurse was not offered a spot on the new staff, but received $175,000 in a settlement for his four days as an assistant.
+
+
+## Return to the D-League
+Nurse immediately returned to his former position as head coach with the Energy. In the 2010–11 NBA D-League season, Nurse received the Dennis Johnson Coach of the Year Award after helping Iowa achieve the best record in the league (37–13). Nurse and the Energy then went on to win the 2011 D-League championship. Nurse joined Joey Meyer as the only NBA G League coaches to win multiple championships but the only one to win with multiple teams.
+Before the 2011–12 season, Nurse left the Energy for the D-League's Rio Grande Valley Vipers. In the 2012–13 season, the Vipers finished with a record of 35–15 and won the D-League finals in a two-game sweep of the Santa Cruz Warriors.
+During his six seasons coaching in the D-League, Nurse had 23 players on his rosters called up to the NBA.
+
+
+## Toronto Raptors (2013–2023)
+In July 2013, Nurse departed the Vipers for an assistant job on the coaching staff of the Toronto Raptors under Dwane Casey. He was in charge of the offense during his time under Casey, and in the 2017–18 season, Nurse was credited for changes to the Raptors' offensive game plan which included increases in passing and three-point attempts. The improved offense helped the Raptors win a franchise-record 59 games, but the team was swept in the second round of the 2018 NBA playoffs by the Cleveland Cavaliers, and Casey was fired shortly thereafter.
+On June 14, 2018, the Raptors promoted Nurse to the position of head coach to succeed Casey. In his first season, he guided the Raptors to a 58–24 record, led by offseason acquisition (and eventual Finals MVP) Kawhi Leonard and emerging star Pascal Siakam, who would go on to win the NBA's Most Improved Player award. On May 25, 2019, Nurse coached the Raptors to the 2019 NBA Finals, the first for the franchise, after taking the Eastern Conference Championship by defeating the Milwaukee Bucks in six games. On June 13, Nurse became the first head coach to win both the NBA and NBA D-League/G League titles, when the Raptors defeated the Golden State Warriors in Game 6 of the NBA Finals, winning the Raptors their first championship in franchise history.
+
+In Nurse's second season, the Raptors finished with a 53–19 record despite losing Leonard to free agency, in a season shortened by the COVID-19 pandemic. He was widely praised for his creativity and innovation in ensuring that the Raptors were able to maintain a high level of play despite losing Leonard. That season, Nurse qualified to be a head coach in the 2020 NBA All-Star Game as the Eastern Conference representative. On August 22, 2020, Nurse was named NBA Coach of the Year. However, the Raptors were unable to repeat their playoff success of the previous season, and were eliminated in the conference semifinals, losing in 7 games at the hands of the Boston Celtics.
+On September 15, 2020, the Raptors announced that Nurse had signed a multi-year contract extension. After an unsuccessful 2020–21 season in which the Raptors played in Tampa Bay due to COVID-19, Nurse guided the team to 48 wins and a return to the playoffs in 2022.
+On April 21, 2023, the Raptors announced that they had fired Nurse, after the team failed to make the playoffs due to their loss to the Chicago Bulls in the Play-in Tournament.
+
+
+Philadelphia 76ers (2023–present)
+On June 1, 2023, the Philadelphia 76ers announced that Nurse had been hired as their head coach. His experience game-planning defensively against their reigning MVP center Joel Embiid in the past was considered helpful perspective, namely to help strategize for Embiid to succeed in playoff situations.
+During the 2023–24 season, Nurse and the 76ers topped the Raptors 114–107 in his return to Toronto as an opposing coach on October 28. Despite injuries to Embiid and other players throughout the season, Nurse was able to secure a 47–35 record and a play-in tournament victory for the Sixers against the No. 8 seed Heat. As the No. 7 seed, they were eliminated in six games by the New York Knicks in the first round of the playoffs.
+The 2024–25 season ended in a 24–58 record, the 76ers' first time missing the playoffs since 2017.
+
+
+## National team career
+Nurse was an assistant coach under Chris Finch, for the Great Britain national team from 2009 to 2012, including the 2012 Summer Olympics in London.
+On June 24, 2019, Nurse was named the head coach of the Canadian men's national team for the 2019 FIBA World Cup and beyond. In an attempt to build continuity in the national team, Nurse secured the commitment of fourteen top Canadian players for three consecutive summers beginning in 2022. The cohort, which included NBA stars such as Shai Gilgeous-Alexander and Jamal Murray, was specifically assembled to play at the 2023 FIBA World Cup and the 2024 Paris Olympics.
+On June 27, 2023, Nurse resigned from his role as national team head coach, just before the World Cup. Nurse cited his transition to his role as the 76ers' head coach as the primary reason for his departure. He was replaced by Jordi Fernández.
+
+
+## Head coaching record
+
+
+## NBA
+
+
+## International
+
+
+## Personal life
+In 2022, after completing his dissertation and comprehensive exam, Nurse graduated from Concordia University Chicago with a Ph.D. in Sports Leadership. On June 20, 2025, Nurse completed and graduated from York University in Toronto, Ontario, Canada with an honorary Doctor of Laws degree.
+Nurse and his wife, Roberta, have three sons.
+
+
+
+
+
+
+
+
+
