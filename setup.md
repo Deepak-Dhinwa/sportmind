@@ -39,7 +39,7 @@ Verify: http://localhost:7474 (login: neo4j / sportmind123)
 ```bash
 docker run -d \
   --name weaviate \
-  -p 8080:8080 \
+  -p 8081:8080 \
   -p 50051:50051 \
   -e AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED=true \
   -e PERSISTENCE_DATA_PATH=/var/lib/weaviate \
@@ -49,7 +49,9 @@ docker run -d \
   semitechnologies/weaviate:1.24.1
 ```
 
-Verify it's up: http://localhost:8080/v1/meta
+Verify it's up: http://localhost:8081/v1/meta
+
+The existing Docker volumes `neo4j_data` and `weaviate_data` already hold the graph and the vector index. Do not delete those volumes. If Neo4j exits immediately with "already running (pid:7)", that is a stale pid file inside the old container, not missing data. Recreate the container against the same `neo4j_data` volume instead of wiping it.
 
 ## 5. Apply Neo4j schema
 

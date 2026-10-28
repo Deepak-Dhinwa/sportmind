@@ -1,5 +1,8 @@
 # SportMind — NBA Intelligent Analytics Platform
 
+One-page summary: open `poster.html` in a browser.
+Start: `.\run.ps1`
+
 An end-to-end NBA analytics system combining a **Knowledge Graph**, **RAG (Retrieval-Augmented Generation)**, and **Machine Learning** to answer natural-language basketball questions, visualize player/team relationships, and predict game outcomes and player performance.
 
 ---

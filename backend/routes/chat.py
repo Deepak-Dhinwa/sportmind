@@ -4,7 +4,7 @@ Includes a simple LRU-style in-process response cache for repeated queries.
 
 Model fallback logic:
   - TPM (per-minute) error  → sleep the suggested delay, retry same model
-  - TPD / quota / daily limit → rotate to next model in roster
+  - TPD / quota / daily limit / rejected or expired key → rotate to next model
   - ModelsExhaustedError     → tell user all models are unavailable
 """
 import json
@@ -48,6 +48,8 @@ def _is_retriable(err: Exception) -> bool:
         "rate_limit", "rate limit", "429", "quota",
         "resource_exhausted", "decommissioned",
         "model_not_found", "model not found",
+        "invalid api key", "invalid_api_key", "expired_api_key",
+        "error code: 401",
     ))
 
 
