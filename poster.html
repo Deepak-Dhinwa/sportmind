@@ -5,20 +5,25 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>SportMind</title>
 <style>
+
 :root { --ink:#1c1915; --muted:#5c564c; --line:#d9d1c3; --paper:#f6f1e7; --card:#fffdf8; --accent:#1E3A5F; }
 * { box-sizing:border-box; }
 body { margin:0; background:#e7e1d6; color:var(--ink); font-family:Georgia, "Iowan Old Style", serif; }
 .sheet { max-width:1180px; margin:28px auto; background:var(--paper); border:1px solid var(--line); }
-.band { display:grid; grid-template-columns:1.25fr 1fr 0.9fr; border-top:1px solid var(--line); }
-.band section { padding-bottom:18px; }
-header { display:flex; justify-content:space-between; gap:24px; padding:28px 32px 18px; border-bottom:3px solid var(--accent); }
+header { display:flex; justify-content:space-between; gap:24px; padding:26px 32px 16px; border-bottom:3px solid var(--accent); }
 h1 { font-size:34px; line-height:1.05; margin:0 0 8px; letter-spacing:-0.4px; }
-.claim { margin:0; font-family:"Segoe UI", sans-serif; font-size:16px; color:var(--muted); max-width:680px; }
+.claim { margin:0; font-family:"Segoe UI", sans-serif; font-size:16px; color:var(--muted); max-width:720px; }
 .kicker { font-family:"Segoe UI", sans-serif; font-size:12px; letter-spacing:0.14em; text-transform:uppercase; color:var(--accent); margin:0 0 8px; }
 .tags { font-family:"Segoe UI", sans-serif; font-size:12px; text-align:right; color:var(--muted); }
 .tags span { display:inline-block; border:1px solid var(--line); padding:4px 8px; margin:0 0 6px 6px; background:var(--card); }
-.grid { display:grid; grid-template-columns:1.1fr 1fr 0.9fr; }
-section { padding:22px 24px 8px; border-right:1px solid var(--line); }
+.path { display:grid; grid-template-columns:repeat(4,1fr); list-style:none; margin:0; padding:0; border-bottom:1px solid var(--line); }
+.path li { padding:12px 16px 14px; border-right:1px solid var(--line); }
+.path li:last-child { border-right:0; }
+.path b { display:block; font-family:"Segoe UI", sans-serif; font-size:11px; letter-spacing:0.12em; color:var(--accent); margin-bottom:4px; }
+.path span { font-family:"Segoe UI", sans-serif; font-size:13.5px; line-height:1.35; }
+.grid, .band { display:grid; grid-template-columns:1.15fr 1fr 0.9fr; }
+.band { border-top:1px solid var(--line); }
+section { padding:18px 22px 8px; border-right:1px solid var(--line); }
 section:last-child { border-right:0; }
 h2 { font-family:"Segoe UI", sans-serif; font-size:12px; letter-spacing:0.16em; text-transform:uppercase; margin:0 0 10px; color:var(--accent); }
 p, li { font-family:"Segoe UI", sans-serif; font-size:14.5px; line-height:1.45; }
@@ -26,35 +31,86 @@ ul { margin:0; padding-left:18px; }
 .stat { border-top:1px solid var(--line); padding:10px 0; }
 .stat b { display:block; font-size:26px; font-family:Georgia, serif; }
 .stat span { font-family:"Segoe UI", sans-serif; font-size:12px; color:var(--muted); }
-footer { display:flex; justify-content:space-between; gap:20px; padding:16px 32px 22px; border-top:1px solid var(--line); font-family:"Segoe UI", sans-serif; font-size:14px; }
+.out { font-family:Consolas, monospace; font-size:12.5px; line-height:1.55; background:var(--card); border:1px solid var(--line); padding:10px 12px; margin:0 0 8px; white-space:pre-wrap; }
+.shots { display:grid; grid-template-columns:repeat(3,1fr); gap:12px; padding:8px 22px 18px; border-top:1px solid var(--line); }
+.shots.one { grid-template-columns:1fr; }
+.shots.two { grid-template-columns:1.15fr 1fr; }
+.shots figure { margin:0; background:var(--card); border:1px solid var(--line); }
+.shots img { width:100%; height:190px; object-fit:contain; background:#fff; display:block; }
+.shots.one img { height:280px; }
+.shots figcaption { font-family:"Segoe UI", sans-serif; font-size:12px; color:var(--muted); padding:6px 8px 8px; }
+.next { margin:0; padding:12px 28px 16px; border-top:1px solid var(--line); font-family:"Segoe UI", sans-serif; font-size:13.5px; color:var(--muted); line-height:1.45; }
+.next b { color:var(--ink); font-weight:600; }
+footer { display:flex; justify-content:space-between; gap:20px; padding:16px 28px 22px; border-top:1px solid var(--line); font-family:"Segoe UI", sans-serif; font-size:14px; }
 code { font-family:Consolas, monospace; background:var(--card); border:1px solid var(--line); padding:2px 6px; }
-@media (max-width:800px) { .grid, .band { grid-template-columns:1fr; } section { border-right:0; border-bottom:1px solid var(--line); } header, footer { display:block; } .tags { text-align:left; margin-top:12px; } }
+@media (max-width:800px) {
+  .grid, .band, .path, .shots, .shots.two { grid-template-columns:1fr; }
+  section { border-right:0; border-bottom:1px solid var(--line); }
+  header, footer { display:block; }
+  .tags { text-align:left; margin-top:12px; }
+}
+
 </style>
 </head>
 <body>
 <article class="sheet">
+
   <header>
     <div>
       <p class="kicker">Built app</p>
       <h1>SportMind</h1>
-      <p class="claim">Ten NBA seasons sit in a graph, a vector store, and a small set of models, and you ask in English.</p>
+      <p class="claim">Ten NBA seasons live in a graph, a document store, and a few small models. You ask in English.</p>
     </div>
     <div class="tags"><span>Neo4j</span><span>RAG</span><span>React</span></div>
   </header>
+  <ol class="path">
+    <li><b>01 · Ingest</b><span>2013-14 through 2022-23: players, teams, games, awards, into Neo4j and a vector store.</span></li>
+    <li><b>02 · Ask</b><span>Chat streams from the API. Stats, awards, and head-to-head are direct graph queries.</span></li>
+    <li><b>03 · Predict</b><span>A win model from box scores, plus a per-player forecast for points, assists, and rebounds.</span></li>
+    <li><b>04 · Show</b><span>The graph draws the neighborhood. Your own notes can be uploaded into the same store.</span></li>
+  </ol>
   <div class="grid">
-    <section><h2>Question</h2><ul><li>What did this player do, how does this team relate, and what is a fair win probability from box scores alone?</li></ul></section>
-    <section><h2>Method</h2><ul><li>2013-14 through 2022-23 ingested into Neo4j and Weaviate.</li><li>A FastAPI backend streams chat. The React app is the front door.</li><li>Win probability is a classifier. Player stats use 658 EWMA forecast models.</li></ul></section>
-    <section><h2>Evidence</h2><div class="stat"><b>0.63</b><span>win model, 2022-23 test AUC</span></div><div class="stat"><b>~1,400</b><span>players</span></div><div class="stat"><b>6,246</b><span>indexed document chunks</span></div></section>
+    <section><h2>Question</h2><ul>
+      <li>What did this player do, how is this team connected, and what is a fair win chance from the box score alone?</li>
+    </ul></section>
+    <section><h2>Why this path</h2><ul>
+      <li>A table can rank scorers. A graph can walk from a player to a team, a ring, and an award in one picture.</li>
+      <li>Win probability is a separate model because the prose store should not be inventing a percentage.</li>
+    </ul></section>
+    <section><h2>What held</h2>
+      <div class="stat"><b>10</b><span>seasons, 2013-14 to 2022-23</span></div>
+      <div class="stat"><b>~1,400</b><span>players in the graph</span></div>
+      <div class="stat"><b>6,246</b><span>document chunks for chat</span></div>
+    </section>
   </div>
   <div class="band">
-    <section><h2>What the result actually says</h2><ul><li>Ten seasons, 2013-14 through 2022-23: about 1,400 players, about 12,800 games, and 6,246 document chunks in the vector store.</li><li>Win probability holds out 2022-23. Test AUC is 0.626, accuracy 61.0%, calibrated Brier score 0.235. Cross-validation AUC was 0.675.</li><li>Player forecasts are 658 EWMA models, 94 players by 7 stats. On the 2022-23 holdout, points MAE is 5.24 and assists MAE is 1.61.</li></ul></section>
-    <section><h2>What it does not show</h2><ul><li>Box scores without in-game data sit near the ceiling people report for this feature set, about 58–65% accuracy. 61% is inside that band, not above it.</li><li>Neo4j and Weaviate have to be running already. The start script only opens the API and the React app.</li></ul></section>
-    <section><h2>Beside the other attempts</h2><ul><li>The win model keeps rolling form, rest, head-to-head, and venue. Thirty-two candidates were pruned to that set.</li><li>Isotonic calibration is applied to the raw win probabilities. The Brier score is the calibrated one.</li></ul></section>
+    <section><h2>Reading the result</h2><ul>
+      <li>The win model holds out 2022-23 and lands at AUC 0.63, accuracy 61%. That is the usual band for box scores with no in-game tracking.</li>
+      <li>Player forecasts are 658 short-memory models, 94 players by 7 stats. On the same holdout, points miss by about 5 and assists by about 1.6.</li>
+      <li>Thirty-two win features were trimmed to form, rest, head-to-head, and venue. Probabilities are calibrated.</li>
+    </ul></section>
+    <section><h2>A real output</h2>
+      <div class="out">Warriors vs Celtics
+  home 54%    away 46%
+
+LeBron, next points
+  31.1    recent 32.4    trending up
+
+Chat
+  2019-20 MVP → Giannis Antetokounmpo</div>
+    </section>
+    <section><h2>What you can click</h2><ul>
+      <li>Scorers, a player page, champions, awards, a comparison, and a head-to-head.</li>
+      <li>Neighborhood graph for a player or team, and a league view of all 30 teams.</li>
+      <li>A markdown note can be indexed and then asked about in chat.</li>
+    </ul></section>
   </div>
+  <p class="next"><b>Next pass.</b> Box scores have a ceiling. Richer tracking data is what would move the win model. Neo4j and Weaviate need to be up before <code>.\run.ps1</code>.</p>
   <footer>
-    <div><h2>Stack</h2><p>Neo4j, Weaviate, FastAPI, React. Chat streams over a websocket. Win model is XGBoost. Forecasts are per-player EWMA.</p></div>
-    <div><h2>Look at it</h2><p>Run <code>.\run.ps1</code>. App at <code>http://localhost:5173</code>, API at <code>http://localhost:8000</code>.</p></div>
+    <div><h2>Stack</h2><p>Neo4j, Weaviate, FastAPI, React. Chat over a websocket. Win model is XGBoost. Forecasts are per-player EWMA.</p></div>
+    <div><h2>Look at it</h2><p>Run <code>.\run.ps1</code>. App at <code>http://localhost:5173</code>.</p></div>
   </footer>
+
 </article>
 </body>
 </html>
