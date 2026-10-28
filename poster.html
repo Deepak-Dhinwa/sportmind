@@ -8,7 +8,9 @@
 :root { --ink:#1c1915; --muted:#5c564c; --line:#d9d1c3; --paper:#f6f1e7; --card:#fffdf8; --accent:#1E3A5F; }
 * { box-sizing:border-box; }
 body { margin:0; background:#e7e1d6; color:var(--ink); font-family:Georgia, "Iowan Old Style", serif; }
-.sheet { max-width:1100px; margin:28px auto; background:var(--paper); border:1px solid var(--line); }
+.sheet { max-width:1180px; margin:28px auto; background:var(--paper); border:1px solid var(--line); }
+.band { display:grid; grid-template-columns:1.25fr 1fr 0.9fr; border-top:1px solid var(--line); }
+.band section { padding-bottom:18px; }
 header { display:flex; justify-content:space-between; gap:24px; padding:28px 32px 18px; border-bottom:3px solid var(--accent); }
 h1 { font-size:34px; line-height:1.05; margin:0 0 8px; letter-spacing:-0.4px; }
 .claim { margin:0; font-family:"Segoe UI", sans-serif; font-size:16px; color:var(--muted); max-width:680px; }
@@ -26,7 +28,7 @@ ul { margin:0; padding-left:18px; }
 .stat span { font-family:"Segoe UI", sans-serif; font-size:12px; color:var(--muted); }
 footer { display:flex; justify-content:space-between; gap:20px; padding:16px 32px 22px; border-top:1px solid var(--line); font-family:"Segoe UI", sans-serif; font-size:14px; }
 code { font-family:Consolas, monospace; background:var(--card); border:1px solid var(--line); padding:2px 6px; }
-@media (max-width:800px) { .grid { grid-template-columns:1fr; } section { border-right:0; border-bottom:1px solid var(--line); } header, footer { display:block; } .tags { text-align:left; margin-top:12px; } }
+@media (max-width:800px) { .grid, .band { grid-template-columns:1fr; } section { border-right:0; border-bottom:1px solid var(--line); } header, footer { display:block; } .tags { text-align:left; margin-top:12px; } }
 </style>
 </head>
 <body>
@@ -44,8 +46,13 @@ code { font-family:Consolas, monospace; background:var(--card); border:1px solid
     <section><h2>Method</h2><ul><li>2013-14 through 2022-23 ingested into Neo4j and Weaviate.</li><li>A FastAPI backend streams chat. The React app is the front door.</li><li>Win probability is a classifier. Player stats use 658 EWMA forecast models.</li></ul></section>
     <section><h2>Evidence</h2><div class="stat"><b>0.63</b><span>win model, 2022-23 test AUC</span></div><div class="stat"><b>~1,400</b><span>players</span></div><div class="stat"><b>6,246</b><span>indexed document chunks</span></div></section>
   </div>
+  <div class="band">
+    <section><h2>What the result actually says</h2><ul><li>Ten seasons, 2013-14 through 2022-23: about 1,400 players, about 12,800 games, and 6,246 document chunks in the vector store.</li><li>Win probability holds out 2022-23. Test AUC is 0.626, accuracy 61.0%, calibrated Brier score 0.235. Cross-validation AUC was 0.675.</li><li>Player forecasts are 658 EWMA models, 94 players by 7 stats. On the 2022-23 holdout, points MAE is 5.24 and assists MAE is 1.61.</li></ul></section>
+    <section><h2>What it does not show</h2><ul><li>Box scores without in-game data sit near the ceiling people report for this feature set, about 58–65% accuracy. 61% is inside that band, not above it.</li><li>Neo4j and Weaviate have to be running already. The start script only opens the API and the React app.</li></ul></section>
+    <section><h2>Beside the other attempts</h2><ul><li>The win model keeps rolling form, rest, head-to-head, and venue. Thirty-two candidates were pruned to that set.</li><li>Isotonic calibration is applied to the raw win probabilities. The Brier score is the calibrated one.</li></ul></section>
+  </div>
   <footer>
-    <div><h2>What came out of it</h2><ul><li>Box scores alone sit near the ceiling reported for this kind of feature set.</li><li>Neo4j and Weaviate have to be up. The start script only launches the app processes.</li></ul></div>
+    <div><h2>Stack</h2><p>Neo4j, Weaviate, FastAPI, React. Chat streams over a websocket. Win model is XGBoost. Forecasts are per-player EWMA.</p></div>
     <div><h2>Look at it</h2><p>Run <code>.\run.ps1</code>. App at <code>http://localhost:5173</code>, API at <code>http://localhost:8000</code>.</p></div>
   </footer>
 </article>
