@@ -51,6 +51,19 @@ docker run -d \
 
 Verify it's up: http://localhost:8081/v1/meta
 
+The `docker run` commands above create the containers once. They do not start again by themselves when Docker Desktop opens.
+
+## Each time you open the app
+
+`.\run.ps1` starts the API and the frontend only. With Docker Desktop open, including after you quit Docker and start it again:
+
+```powershell
+docker start neo4j weaviate
+.\run.ps1
+```
+
+API: http://localhost:8000. App: http://localhost:5173.
+
 The existing Docker volumes `neo4j_data` and `weaviate_data` already hold the graph and the vector index. Do not delete those volumes. If Neo4j exits immediately with "already running (pid:7)", that is a stale pid file inside the old container, not missing data. Recreate the container against the same `neo4j_data` volume instead of wiping it.
 
 ## 5. Apply Neo4j schema

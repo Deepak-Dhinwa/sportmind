@@ -1,7 +1,7 @@
 # SportMind — NBA Intelligent Analytics Platform
 
 One-page summary: open `poster.html` in a browser.
-Start: `.\run.ps1`
+Start: with Docker Desktop open, `docker start neo4j weaviate`, then `.\run.ps1`. The script starts the API and the frontend only.
 
 An end-to-end NBA analytics system combining a **Knowledge Graph**, **RAG (Retrieval-Augmented Generation)**, and **Machine Learning** to answer natural-language basketball questions, visualize player/team relationships, and predict game outcomes and player performance.
 
@@ -530,12 +530,15 @@ docker run -d --name neo4j \
 
 ```bash
 docker run -d --name weaviate \
-  -p 8080:8080 -p 50051:50051 \
+  -p 8081:8080 -p 50051:50051 \
+  -e AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED=true \
   -e DEFAULT_VECTORIZER_MODULE=none \
   -e PERSISTENCE_DATA_PATH=/var/lib/weaviate \
   -v weaviate_data:/var/lib/weaviate \
   semitechnologies/weaviate:1.24.1
 ```
+
+These `docker run` commands are for the first time only. They do not run again on their own after Docker Desktop restarts. See [Running the Application](#running-the-application).
 
 ### 4. Configure environment
 
@@ -583,14 +586,25 @@ NEO4J_USER=neo4j
 NEO4J_PASSWORD=sportmind123
 
 # Weaviate
-WEAVIATE_URL=http://localhost:8080
+WEAVIATE_URL=http://localhost:8081
 WEAVIATE_HOST=localhost
-WEAVIATE_PORT=8080
+WEAVIATE_PORT=8081
 ```
 
 ---
 
 ## Running the Application
+
+Open Docker Desktop first. Quit and reopen Docker, and the Neo4j and Weaviate containers stay stopped. Start them, then the app:
+
+```powershell
+docker start neo4j weaviate
+.\run.ps1
+```
+
+`.\run.ps1` opens the API at http://localhost:8000 and the frontend at http://localhost:5173. It does not start the databases. The graph and the vectors stay in the `neo4j_data` and `weaviate_data` volumes.
+
+The same two processes can be started by hand:
 
 ### Backend
 
