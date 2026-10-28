@@ -1,7 +1,8 @@
 import axios from "axios";
 
-const BASE = "http://localhost:8000";
-const WS_BASE = "ws://localhost:8000";
+// Same origin as the page. Vite forwards these to the API on 127.0.0.1:8000.
+const BASE = "";
+const WS_BASE = `${location.protocol === "https:" ? "wss" : "ws"}://${location.host}`;
 
 export const api = axios.create({ baseURL: BASE });
 

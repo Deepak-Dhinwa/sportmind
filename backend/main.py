@@ -58,9 +58,12 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:5173",   # vite dev server
-        "http://localhost:4173",   # vite preview
-        "http://localhost:3000",   # docker nginx
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
+        "http://[::1]:5173",
+        "http://localhost:4173",
+        "http://127.0.0.1:4173",
+        "http://localhost:3000",
     ],
     allow_methods=["*"],
     allow_headers=["*"],
@@ -125,9 +128,18 @@ async def root():
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(
-        "backend.main:app",
-        host="0.0.0.0",
-        port=8000,
-        reload=True,
-    )
+if __name__ == "__main__":
+    import socket
+    import uvicorn
+
+    # One socket for both address families. On Windows, localhost is ::1 first
+    # and 0.0.0.0 does not accept that connection.
+    sock = socket.socket(socket.AF_INET6, socket.SOCK_STREAM)
+    sock.setsockopt(socket.IPPROTO_IPV6, socket.IPV6_V6ONLY, 0)
+    sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+    sock.bind(("::", 8000))
+    sock.listen(2048)
+    sock.set_inheritable(True)
+
+    config = uvicorn.Config("backend.main:app", reload=False)
+    uvicorn.Server(config).run(sockets=[sock])
