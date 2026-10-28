@@ -21,11 +21,21 @@ _client = None
 
 def get_client() -> weaviate.WeaviateClient:
     global _client
-    if _client is None:
-        _client = weaviate.connect_to_local(
-            host=os.getenv("WEAVIATE_HOST", "localhost"),
-            port=int(os.getenv("WEAVIATE_PORT", "8081")),
-        )
+    if _client is not None:
+        try:
+            if _client.is_connected():
+                return _client
+        except Exception:
+            pass
+        try:
+            _client.close()
+        except Exception:
+            pass
+        _client = None
+    _client = weaviate.connect_to_local(
+        host=os.getenv("WEAVIATE_HOST", "localhost"),
+        port=int(os.getenv("WEAVIATE_PORT", "8081")),
+    )
     return _client
 
 

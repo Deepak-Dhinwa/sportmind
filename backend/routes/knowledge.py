@@ -94,7 +94,6 @@ def _index_file(filepath: Path, entity: str) -> int:
                 vector={"default": vector.tolist()},
                 uuid=str(uuid.uuid4()),
             )
-    client.close()
     return len(chunks)
 
 
